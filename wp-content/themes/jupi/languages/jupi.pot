@@ -1,0 +1,2243 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jupi\n"
+"POT-Creation-Date: 2021-03-29 14:52+0600\n"
+"PO-Revision-Date: 2020-04-24 19:55+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;esc_attr__;esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+"X-Poedit-SearchPathExcluded-1: languages\n"
+
+#: 404.php:36
+msgid "Go Home"
+msgstr ""
+
+#: 404.php:41
+msgid "Error illustrations"
+msgstr ""
+
+#: comments.php:27
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:82
+msgid "Type your name..."
+msgstr ""
+
+#: comments.php:84
+msgid "Type your email..."
+msgstr ""
+
+#: comments.php:86
+msgid "Type your website..."
+msgstr ""
+
+#: comments.php:88
+msgid ""
+"Save my name, email, and website in this browser for the next time I comment."
+msgstr ""
+
+#: comments.php:93
+msgid "Type your comment..."
+msgstr ""
+
+#: comments.php:95
+msgid "Logged in as "
+msgstr ""
+
+#: comments.php:95
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:95
+msgid "Log out?"
+msgstr ""
+
+#: comments.php:96
+msgid "Post Comment"
+msgstr ""
+
+#: footer.php:7
+msgid "Copyright By@Quomodothemes - 2020"
+msgstr ""
+
+#: footer.php:59 inc/jupi-option.php:2343
+msgid "Footer Logo"
+msgstr ""
+
+#: functions.php:119
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:224
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:226
+msgid "Add widgets here to appear in your sidebar."
+msgstr ""
+
+#: functions.php:235
+msgid "WooCommerce Sidebar"
+msgstr ""
+
+#: functions.php:237
+msgid "Add widgets here to appear in your woocommerce sidebar."
+msgstr ""
+
+#: functions.php:246
+msgid "Footer Widget"
+msgstr ""
+
+#: functions.php:248
+msgid "Add footer bottom widgets."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:393
+#: inc/class-tgm-plugin-activation.php:912
+#: inc/class-tgm-plugin-activation.php:2618
+#: inc/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:394
+#: inc/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:395
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1019
+#: inc/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3594
+#: inc/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3594
+#: inc/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/importer.php:9
+msgid "Home 1"
+msgstr ""
+
+#: inc/importer.php:15
+msgid "Home 2"
+msgstr ""
+
+#: inc/importer.php:21
+msgid "Home 3"
+msgstr ""
+
+#: inc/importer.php:27
+msgid "Home 4"
+msgstr ""
+
+#: inc/importer.php:33
+msgid "Home 5"
+msgstr ""
+
+#: inc/jupi-function.php:56
+msgid "News Feeds"
+msgstr ""
+
+#: inc/jupi-function.php:57
+msgid "Search Results for"
+msgstr ""
+
+#: inc/jupi-function.php:77
+msgid "Shop Page"
+msgstr ""
+
+#: inc/jupi-function.php:175
+msgid "Default"
+msgstr ""
+
+#: inc/jupi-function.php:198
+msgid "Follow Us"
+msgstr ""
+
+#: inc/jupi-option.php:31 inc/jupi-option.php:32
+msgid "Jupi Options"
+msgstr ""
+
+#: inc/jupi-option.php:132
+msgid "Typography."
+msgstr ""
+
+#: inc/jupi-option.php:139
+msgid "Body"
+msgstr ""
+
+#: inc/jupi-option.php:152
+msgid "H1 Typography"
+msgstr ""
+
+#: inc/jupi-option.php:165
+msgid "H2 Typography"
+msgstr ""
+
+#: inc/jupi-option.php:178
+msgid "H3 Typography"
+msgstr ""
+
+#: inc/jupi-option.php:191
+msgid "H4 Typography"
+msgstr ""
+
+#: inc/jupi-option.php:204
+msgid "H5 Typography"
+msgstr ""
+
+#: inc/jupi-option.php:217
+msgid "H6 Typography"
+msgstr ""
+
+#: inc/jupi-option.php:228
+msgid "Anchor Color"
+msgstr ""
+
+#: inc/jupi-option.php:229
+msgid "Setup Anchor Color."
+msgstr ""
+
+#: inc/jupi-option.php:235
+msgid "Anchor Hover Color"
+msgstr ""
+
+#: inc/jupi-option.php:236
+msgid "Setup Anchor Hover Color."
+msgstr ""
+
+#: inc/jupi-option.php:242
+msgid "Blockquote Color"
+msgstr ""
+
+#: inc/jupi-option.php:243
+msgid "Setup Blockquote Color."
+msgstr ""
+
+#: inc/jupi-option.php:251
+msgid "Blockquote Background"
+msgstr ""
+
+#: inc/jupi-option.php:252
+msgid "Blockquote background color"
+msgstr ""
+
+#: inc/jupi-option.php:262
+msgid "Navbar Settings"
+msgstr ""
+
+#: inc/jupi-option.php:268
+msgid "Top Bar Option."
+msgstr ""
+
+#: inc/jupi-option.php:276
+msgid "Enable Top Bar"
+msgstr ""
+
+#: inc/jupi-option.php:277
+msgid "Show/Hide the menu top bar content on the navbar."
+msgstr ""
+
+#: inc/jupi-option.php:278 inc/jupi-option.php:693 inc/jupi-option.php:854
+#: inc/jupi-option.php:984 inc/jupi-option.php:1511 inc/jupi-option.php:1601
+#: inc/jupi-option.php:1684 inc/jupi-option.php:1813 inc/jupi-option.php:2784
+msgid "Show"
+msgstr ""
+
+#: inc/jupi-option.php:279 inc/jupi-option.php:694 inc/jupi-option.php:855
+#: inc/jupi-option.php:985 inc/jupi-option.php:1512 inc/jupi-option.php:1602
+#: inc/jupi-option.php:1685 inc/jupi-option.php:1814 inc/jupi-option.php:2785
+msgid "Hide"
+msgstr ""
+
+#: inc/jupi-option.php:283
+msgid "Left Content"
+msgstr ""
+
+#: inc/jupi-option.php:284
+msgid "Please set menu top bar left content here."
+msgstr ""
+
+#: inc/jupi-option.php:295
+msgid "E-mail Address"
+msgstr ""
+
+#: inc/jupi-option.php:296
+msgid "Please enter your valid email address. Example : (yourname@domain.com)"
+msgstr ""
+
+#: inc/jupi-option.php:302
+msgid "Phone Number"
+msgstr ""
+
+#: inc/jupi-option.php:303
+msgid "Please enter your valid phone number."
+msgstr ""
+
+#: inc/jupi-option.php:312
+msgid "Right Social Link"
+msgstr ""
+
+#: inc/jupi-option.php:313
+msgid "Please set menu top bar social link here."
+msgstr ""
+
+#: inc/jupi-option.php:323
+msgid "Facebook URL"
+msgstr ""
+
+#: inc/jupi-option.php:324
+msgid "Please enter facebook profile url."
+msgstr ""
+
+#: inc/jupi-option.php:330
+msgid "Twitter URL"
+msgstr ""
+
+#: inc/jupi-option.php:331
+msgid "Please enter Twitter profile url."
+msgstr ""
+
+#: inc/jupi-option.php:337
+msgid "Linkedin URL"
+msgstr ""
+
+#: inc/jupi-option.php:338
+msgid "Please enter Linkedin profile url."
+msgstr ""
+
+#: inc/jupi-option.php:344
+msgid "Instagram URL"
+msgstr ""
+
+#: inc/jupi-option.php:345
+msgid "Please enter Instagram profile url."
+msgstr ""
+
+#: inc/jupi-option.php:351
+msgid "Pinterest URL"
+msgstr ""
+
+#: inc/jupi-option.php:352
+msgid "Please enter Pinterest profile url."
+msgstr ""
+
+#: inc/jupi-option.php:358
+msgid "Flickr URL"
+msgstr ""
+
+#: inc/jupi-option.php:359
+msgid "Please enter Flickr profile url."
+msgstr ""
+
+#: inc/jupi-option.php:365
+msgid "YouTube URL"
+msgstr ""
+
+#: inc/jupi-option.php:366
+msgid "Please enter YouTube profile url."
+msgstr ""
+
+#: inc/jupi-option.php:372
+msgid "Vimeo URL"
+msgstr ""
+
+#: inc/jupi-option.php:373
+msgid "Please enter Vimeo profile url."
+msgstr ""
+
+#: inc/jupi-option.php:382
+msgid "Sign Label"
+msgstr ""
+
+#: inc/jupi-option.php:383
+msgid "Leave the button label field empty to hide the menu sign in button."
+msgstr ""
+
+#: inc/jupi-option.php:386
+msgid "Sign In"
+msgstr ""
+
+#: inc/jupi-option.php:389
+msgid "Sign URL"
+msgstr ""
+
+#: inc/jupi-option.php:395
+msgid "Donate Label"
+msgstr ""
+
+#: inc/jupi-option.php:396
+msgid "Leave the button label field empty to hide the menu donate button."
+msgstr ""
+
+#: inc/jupi-option.php:399
+msgid "Donate"
+msgstr ""
+
+#: inc/jupi-option.php:402
+msgid "Donate URL"
+msgstr ""
+
+#: inc/jupi-option.php:412
+msgid "Logo"
+msgstr ""
+
+#: inc/jupi-option.php:418
+msgid "Upload logo"
+msgstr ""
+
+#: inc/jupi-option.php:419
+msgid "Upload here a image file for your logo"
+msgstr ""
+
+#: inc/jupi-option.php:424
+msgid "Sticky Navbar Logo"
+msgstr ""
+
+#: inc/jupi-option.php:429
+msgid "Logo dimensions"
+msgstr ""
+
+#: inc/jupi-option.php:430
+msgid "Set a custom height width for your upload logo."
+msgstr ""
+
+#: inc/jupi-option.php:437 inc/jupi-option.php:959 inc/jupi-option.php:1090
+#: inc/jupi-option.php:1176
+msgid "Padding"
+msgstr ""
+
+#: inc/jupi-option.php:438
+msgid ""
+"Padding around the logo. Input the padding as clockwise (Top Right Bottom "
+"Left)"
+msgstr ""
+
+#: inc/jupi-option.php:451
+msgid "Navbar Option"
+msgstr ""
+
+#: inc/jupi-option.php:460
+msgid "Navbar Transparent"
+msgstr ""
+
+#: inc/jupi-option.php:461 inc/jupi-option.php:470
+msgid "On"
+msgstr ""
+
+#: inc/jupi-option.php:462 inc/jupi-option.php:471
+msgid "Off"
+msgstr ""
+
+#: inc/jupi-option.php:469
+msgid "Navbar Sticky"
+msgstr ""
+
+#: inc/jupi-option.php:479
+msgid "Navbar Style"
+msgstr ""
+
+#: inc/jupi-option.php:486
+msgid "Navbar box layout"
+msgstr ""
+
+#: inc/jupi-option.php:491
+msgid "Boxed"
+msgstr ""
+
+#: inc/jupi-option.php:492
+msgid "Wide"
+msgstr ""
+
+#: inc/jupi-option.php:493
+msgid "Full Width"
+msgstr ""
+
+#: inc/jupi-option.php:500
+msgid "Navbar Background"
+msgstr ""
+
+#: inc/jupi-option.php:501
+msgid "Navbar background color"
+msgstr ""
+
+#: inc/jupi-option.php:510
+msgid "Navbar Sticky Background"
+msgstr ""
+
+#: inc/jupi-option.php:511
+msgid "Background color on navbar sticky mode"
+msgstr ""
+
+#: inc/jupi-option.php:518
+msgid "Navbar Padding"
+msgstr ""
+
+#: inc/jupi-option.php:519
+msgid ""
+"Padding around the navbar . Input the padding as clockwise (Top Right Bottom "
+"Left)"
+msgstr ""
+
+#: inc/jupi-option.php:529
+msgid "Navbar Sticky Padding"
+msgstr ""
+
+#: inc/jupi-option.php:530
+msgid ""
+"Padding around the sticky navbar. Input the padding as clockwise (Top Right "
+"Bottom Left)"
+msgstr ""
+
+#: inc/jupi-option.php:539
+msgid "Menu Shadow"
+msgstr ""
+
+#: inc/jupi-option.php:545
+msgid "Sticky Menu Shadow"
+msgstr ""
+
+#: inc/jupi-option.php:551
+msgid "Menu Item Style"
+msgstr ""
+
+#: inc/jupi-option.php:552
+msgid "Menu item style attributes on normal (non sticky) mode."
+msgstr ""
+
+#: inc/jupi-option.php:560 inc/jupi-option.php:642 inc/jupi-option.php:2126
+#: inc/jupi-option.php:2306 inc/jupi-option.php:2662
+msgid "Typography"
+msgstr ""
+
+#: inc/jupi-option.php:571
+msgid "Bar Color"
+msgstr ""
+
+#: inc/jupi-option.php:580 inc/jupi-option.php:736 inc/jupi-option.php:882
+#: inc/jupi-option.php:1012 inc/jupi-option.php:2745
+msgid "Hover Font Color"
+msgstr ""
+
+#: inc/jupi-option.php:581 inc/jupi-option.php:620 inc/jupi-option.php:655
+#: inc/jupi-option.php:737 inc/jupi-option.php:791 inc/jupi-option.php:883
+#: inc/jupi-option.php:930 inc/jupi-option.php:1013 inc/jupi-option.php:1061
+#: inc/jupi-option.php:2746
+msgid "Font color on hover stats."
+msgstr ""
+
+#: inc/jupi-option.php:596
+msgid "Sticky Menu Style"
+msgstr ""
+
+#: inc/jupi-option.php:597
+msgid "Menu colors on sticky mode."
+msgstr ""
+
+#: inc/jupi-option.php:604
+msgid "Sticky Font color"
+msgstr ""
+
+#: inc/jupi-option.php:610
+msgid "Sticky Bar Color"
+msgstr ""
+
+#: inc/jupi-option.php:619
+msgid "Sticky Hover Font Color"
+msgstr ""
+
+#: inc/jupi-option.php:633
+msgid "Dropdown Menu"
+msgstr ""
+
+#: inc/jupi-option.php:634
+msgid "Dropdown Menu style attributes on normal (non sticky) mode."
+msgstr ""
+
+#: inc/jupi-option.php:654
+msgid "Hover Color"
+msgstr ""
+
+#: inc/jupi-option.php:666
+msgid "Plus Color"
+msgstr ""
+
+#: inc/jupi-option.php:673
+msgid "Sticky Plus Color"
+msgstr ""
+
+#: inc/jupi-option.php:684
+msgid "Action Button"
+msgstr ""
+
+#: inc/jupi-option.php:690
+msgid "Button Visibility"
+msgstr ""
+
+#: inc/jupi-option.php:698
+msgid "Button label"
+msgstr ""
+
+#: inc/jupi-option.php:699
+msgid "Leave the button label field empty to hide the menu action button."
+msgstr ""
+
+#: inc/jupi-option.php:702
+msgid "Get Started"
+msgstr ""
+
+#: inc/jupi-option.php:706
+msgid "Button URL"
+msgstr ""
+
+#: inc/jupi-option.php:713
+msgid "Button Colors"
+msgstr ""
+
+#: inc/jupi-option.php:714 inc/jupi-option.php:860 inc/jupi-option.php:990
+#: inc/jupi-option.php:1111
+msgid "Button style attributes on normal (non sticky) mode."
+msgstr ""
+
+#: inc/jupi-option.php:721 inc/jupi-option.php:775 inc/jupi-option.php:867
+#: inc/jupi-option.php:914 inc/jupi-option.php:997 inc/jupi-option.php:1045
+#: inc/jupi-option.php:2730
+msgid "Font color"
+msgstr ""
+
+#: inc/jupi-option.php:727 inc/jupi-option.php:873 inc/jupi-option.php:1003
+#: inc/jupi-option.php:1125 inc/jupi-option.php:1467 inc/jupi-option.php:2005
+#: inc/jupi-option.php:2736
+msgid "Background Color"
+msgstr ""
+
+#: inc/jupi-option.php:743 inc/jupi-option.php:797 inc/jupi-option.php:889
+#: inc/jupi-option.php:936 inc/jupi-option.php:1019 inc/jupi-option.php:1067
+#: inc/jupi-option.php:2752
+msgid "Hover background color"
+msgstr ""
+
+#: inc/jupi-option.php:744 inc/jupi-option.php:798 inc/jupi-option.php:890
+#: inc/jupi-option.php:937 inc/jupi-option.php:1020 inc/jupi-option.php:1068
+#: inc/jupi-option.php:2753
+msgid "Background color on hover stats."
+msgstr ""
+
+#: inc/jupi-option.php:754 inc/jupi-option.php:1891 inc/jupi-option.php:2609
+#: inc/jupi-option.php:2763 inc/jupi-option.php:2852
+msgid "Button Border"
+msgstr ""
+
+#: inc/jupi-option.php:767 inc/jupi-option.php:906 inc/jupi-option.php:1037
+#: inc/jupi-option.php:1141
+msgid "Sticky Button Style"
+msgstr ""
+
+#: inc/jupi-option.php:768 inc/jupi-option.php:907 inc/jupi-option.php:1038
+#: inc/jupi-option.php:1142
+msgid "Button colors on sticky mode."
+msgstr ""
+
+#: inc/jupi-option.php:781 inc/jupi-option.php:920 inc/jupi-option.php:1051
+#: inc/jupi-option.php:1156
+msgid "Background color"
+msgstr ""
+
+#: inc/jupi-option.php:790 inc/jupi-option.php:929 inc/jupi-option.php:1060
+msgid "Hover font color"
+msgstr ""
+
+#: inc/jupi-option.php:808
+msgid "Sticky Button Border"
+msgstr ""
+
+#: inc/jupi-option.php:819
+msgid "Button padding"
+msgstr ""
+
+#: inc/jupi-option.php:820
+msgid "Padding around the menu action button."
+msgstr ""
+
+#: inc/jupi-option.php:831 inc/jupi-option.php:1903 inc/jupi-option.php:2864
+msgid "Button Radius"
+msgstr ""
+
+#: inc/jupi-option.php:832
+msgid ""
+"Radius around the button. Input the radius as clockwise (Top Right Bottom "
+"Left)"
+msgstr ""
+
+#: inc/jupi-option.php:844
+msgid "Shoping Cart"
+msgstr ""
+
+#: inc/jupi-option.php:850
+msgid "Mini Cart"
+msgstr ""
+
+#: inc/jupi-option.php:851
+msgid "Mini Cart icon visibility on the navbar."
+msgstr ""
+
+#: inc/jupi-option.php:859 inc/jupi-option.php:989 inc/jupi-option.php:1110
+#: inc/jupi-option.php:2723 inc/jupi-option.php:2789
+msgid "Button Style"
+msgstr ""
+
+#: inc/jupi-option.php:950 inc/jupi-option.php:1081 inc/jupi-option.php:1168
+#: inc/jupi-option.php:2822
+msgid "Button Dimensions"
+msgstr ""
+
+#: inc/jupi-option.php:951 inc/jupi-option.php:1082 inc/jupi-option.php:1169
+msgid "Set a custom dimensions."
+msgstr ""
+
+#: inc/jupi-option.php:960
+msgid ""
+"Padding around the shoping cart button. Input the padding as clockwise (Top "
+"Right Bottom Left)"
+msgstr ""
+
+#: inc/jupi-option.php:974 inc/jupi-option.php:982
+msgid "Search Option"
+msgstr ""
+
+#: inc/jupi-option.php:983
+msgid "Show/Hide the Search icon on the navbar."
+msgstr ""
+
+#: inc/jupi-option.php:1091 inc/jupi-option.php:1177
+msgid ""
+"Padding around the search button. Input the padding as clockwise (Top Right "
+"Bottom Left)"
+msgstr ""
+
+#: inc/jupi-option.php:1104
+msgid "Mobile Menu Button"
+msgstr ""
+
+#: inc/jupi-option.php:1117 inc/jupi-option.php:1148
+msgid "Bar color"
+msgstr ""
+
+#: inc/jupi-option.php:1189
+msgid "Site Header"
+msgstr ""
+
+#: inc/jupi-option.php:1191
+msgid "These are site header fields!"
+msgstr ""
+
+#: inc/jupi-option.php:1197
+msgid "Header Style"
+msgstr ""
+
+#: inc/jupi-option.php:1205
+msgid "Header Background"
+msgstr ""
+
+#: inc/jupi-option.php:1206
+msgid "Header background with image, color, etc."
+msgstr ""
+
+#: inc/jupi-option.php:1212
+msgid "Header Overlay"
+msgstr ""
+
+#: inc/jupi-option.php:1233
+msgid "Header Space"
+msgstr ""
+
+#: inc/jupi-option.php:1234
+msgid "Site Header Spacing Define"
+msgstr ""
+
+#: inc/jupi-option.php:1235
+msgid "To define Top, Right, Bottom, Left padding"
+msgstr ""
+
+#: inc/jupi-option.php:1244
+msgid "Alignment"
+msgstr ""
+
+#: inc/jupi-option.php:1247 inc/jupi-option.php:2045 inc/jupi-option.php:2225
+msgid "Left"
+msgstr ""
+
+#: inc/jupi-option.php:1248
+msgid "Center"
+msgstr ""
+
+#: inc/jupi-option.php:1249 inc/jupi-option.php:2043 inc/jupi-option.php:2223
+msgid "Right"
+msgstr ""
+
+#: inc/jupi-option.php:1256
+msgid "Header Title"
+msgstr ""
+
+#: inc/jupi-option.php:1264
+msgid "Blog Page Title"
+msgstr ""
+
+#: inc/jupi-option.php:1265
+msgid "Post list page header title."
+msgstr ""
+
+#: inc/jupi-option.php:1266
+msgid "To set blog header title text."
+msgstr ""
+
+#: inc/jupi-option.php:1272
+msgid "Search Page Title"
+msgstr ""
+
+#: inc/jupi-option.php:1273
+msgid "Search post page header title."
+msgstr ""
+
+#: inc/jupi-option.php:1274
+msgid "To set search page header title text."
+msgstr ""
+
+#: inc/jupi-option.php:1280
+msgid "Page Title Typography"
+msgstr ""
+
+#: inc/jupi-option.php:1291 inc/jupi-option.php:1388
+msgid "Typography option with each property can be called individually."
+msgstr ""
+
+#: inc/jupi-option.php:1316
+msgid "Title Space"
+msgstr ""
+
+#: inc/jupi-option.php:1317
+msgid "Page title spacing."
+msgstr ""
+
+#: inc/jupi-option.php:1318
+msgid "You can define spacing Top, Right, Bottom, Left, or Units."
+msgstr ""
+
+#: inc/jupi-option.php:1328
+msgid "Heder Subtitle"
+msgstr ""
+
+#: inc/jupi-option.php:1336
+msgid "Display Format"
+msgstr ""
+
+#: inc/jupi-option.php:1337
+msgid "Page header subtitle format."
+msgstr ""
+
+#: inc/jupi-option.php:1338
+msgid "Please select subtitle display format."
+msgstr ""
+
+#: inc/jupi-option.php:1341
+msgid "Site Description"
+msgstr ""
+
+#: inc/jupi-option.php:1342
+msgid "Breadcrumb"
+msgstr ""
+
+#: inc/jupi-option.php:1343 inc/jupi-option.php:1368
+msgid "Custom Subtitle"
+msgstr ""
+
+#: inc/jupi-option.php:1350
+msgid "Breadcrumb Home"
+msgstr ""
+
+#: inc/jupi-option.php:1351
+msgid "Breadcrumbs menu home name."
+msgstr ""
+
+#: inc/jupi-option.php:1352
+msgid "To set breadcrumb home text."
+msgstr ""
+
+#: inc/jupi-option.php:1359
+msgid "Breadcrumb Separator"
+msgstr ""
+
+#: inc/jupi-option.php:1360
+msgid "Breadcrumbs menu item separator."
+msgstr ""
+
+#: inc/jupi-option.php:1361
+msgid "To set breadcrumb separator."
+msgstr ""
+
+#: inc/jupi-option.php:1369
+msgid "To set custom page subtitle."
+msgstr ""
+
+#: inc/jupi-option.php:1370
+msgid "Enter your custom page subtitle."
+msgstr ""
+
+#: inc/jupi-option.php:1377
+msgid "Subtitle Typography"
+msgstr ""
+
+#: inc/jupi-option.php:1407
+msgid "Subtitle Space"
+msgstr ""
+
+#: inc/jupi-option.php:1408
+msgid "Allow your users to choose the spacing or margin they want."
+msgstr ""
+
+#: inc/jupi-option.php:1409
+msgid ""
+"You can enable or disable any piece of this field. Top, Right, Bottom, Left, "
+"or Units."
+msgstr ""
+
+#: inc/jupi-option.php:1420
+msgid "Blog Settings"
+msgstr ""
+
+#: inc/jupi-option.php:1422
+msgid "You can edit blog all default option."
+msgstr ""
+
+#: inc/jupi-option.php:1427
+msgid "Post Box"
+msgstr ""
+
+#: inc/jupi-option.php:1432 inc/jupi-option.php:1970
+msgid "Box Style"
+msgstr ""
+
+#: inc/jupi-option.php:1438 inc/jupi-option.php:1976
+msgid "Box Margin"
+msgstr ""
+
+#: inc/jupi-option.php:1439
+msgid ""
+"Margin around the post box. Input the margin as clockwise (Top Right Bottom "
+"Left)"
+msgstr ""
+
+#: inc/jupi-option.php:1448 inc/jupi-option.php:1986
+msgid "Box Padding"
+msgstr ""
+
+#: inc/jupi-option.php:1449
+msgid ""
+"Padding around the post box. Input the padding as clockwise (Top Right "
+"Bottom Left)"
+msgstr ""
+
+#: inc/jupi-option.php:1458 inc/jupi-option.php:1996
+msgid "Box Radius"
+msgstr ""
+
+#: inc/jupi-option.php:1459
+msgid ""
+"Radius around the post box. Input the radius as clockwise (Top Right Bottom "
+"Left)"
+msgstr ""
+
+#: inc/jupi-option.php:1476 inc/jupi-option.php:2014
+msgid "Box Border"
+msgstr ""
+
+#: inc/jupi-option.php:1488 inc/jupi-option.php:2018
+msgid "Box Shadow"
+msgstr ""
+
+#: inc/jupi-option.php:1503
+msgid "Post Image"
+msgstr ""
+
+#: inc/jupi-option.php:1510
+msgid "Image Visibility"
+msgstr ""
+
+#: inc/jupi-option.php:1518
+msgid "Image Size"
+msgstr ""
+
+#: inc/jupi-option.php:1520
+msgid "Thumbnail"
+msgstr ""
+
+#: inc/jupi-option.php:1521
+msgid "Medium"
+msgstr ""
+
+#: inc/jupi-option.php:1522
+msgid "Large"
+msgstr ""
+
+#: inc/jupi-option.php:1523
+msgid "Full"
+msgstr ""
+
+#: inc/jupi-option.php:1529
+msgid "Image Style"
+msgstr ""
+
+#: inc/jupi-option.php:1536
+msgid "Image Margin"
+msgstr ""
+
+#: inc/jupi-option.php:1537
+msgid ""
+"Margin around the post Image. Input the margin as clockwise (Top Right "
+"Bottom Left)"
+msgstr ""
+
+#: inc/jupi-option.php:1546
+msgid "Image Padding"
+msgstr ""
+
+#: inc/jupi-option.php:1547
+msgid ""
+"Padding around the post Image. Input the padding as clockwise (Top Right "
+"Bottom Left)"
+msgstr ""
+
+#: inc/jupi-option.php:1556
+msgid "Image Radius"
+msgstr ""
+
+#: inc/jupi-option.php:1557
+msgid ""
+"Radius around the post image. Input the radius as clockwise (Top Right "
+"Bottom Left)"
+msgstr ""
+
+#: inc/jupi-option.php:1567
+msgid "Image Border"
+msgstr ""
+
+#: inc/jupi-option.php:1579
+msgid "Image Box Shadow"
+msgstr ""
+
+#: inc/jupi-option.php:1593
+msgid "Post Meta"
+msgstr ""
+
+#: inc/jupi-option.php:1600
+msgid "Meta Visibility"
+msgstr ""
+
+#: inc/jupi-option.php:1609
+msgid "Select Meta"
+msgstr ""
+
+#: inc/jupi-option.php:1611
+msgid "Author"
+msgstr ""
+
+#: inc/jupi-option.php:1612
+msgid "Post Date"
+msgstr ""
+
+#: inc/jupi-option.php:1613
+msgid "Comment Count"
+msgstr ""
+
+#: inc/jupi-option.php:1614 single.php:34
+msgid "Tags"
+msgstr ""
+
+#: inc/jupi-option.php:1615
+msgid "Categories"
+msgstr ""
+
+#: inc/jupi-option.php:1621
+msgid "Meta Style"
+msgstr ""
+
+#: inc/jupi-option.php:1630
+msgid "Meta Typography"
+msgstr ""
+
+#: inc/jupi-option.php:1642
+msgid "Meta Icon Color"
+msgstr ""
+
+#: inc/jupi-option.php:1643
+msgid "Meta icon color."
+msgstr ""
+
+#: inc/jupi-option.php:1649
+msgid "Meta Hover Color"
+msgstr ""
+
+#: inc/jupi-option.php:1650
+msgid "Meta color on hover."
+msgstr ""
+
+#: inc/jupi-option.php:1657
+msgid "Meta Spacing"
+msgstr ""
+
+#: inc/jupi-option.php:1658
+msgid ""
+"Margin around the post meta item. Input the margin as clockwise (Top Right "
+"Bottom Left)"
+msgstr ""
+
+#: inc/jupi-option.php:1676
+msgid "Post Title"
+msgstr ""
+
+#: inc/jupi-option.php:1683
+msgid "Title Visibility"
+msgstr ""
+
+#: inc/jupi-option.php:1691
+msgid "Title Length"
+msgstr ""
+
+#: inc/jupi-option.php:1692
+msgid "Min:1, max: 100, step: 1, default value: 15"
+msgstr ""
+
+#: inc/jupi-option.php:1700 inc/jupi-option.php:2059 inc/jupi-option.php:2240
+msgid "Title Style"
+msgstr ""
+
+#: inc/jupi-option.php:1709 inc/jupi-option.php:2068 inc/jupi-option.php:2250
+msgid "Title Typography"
+msgstr ""
+
+#: inc/jupi-option.php:1721
+msgid "Title Hover Color"
+msgstr ""
+
+#: inc/jupi-option.php:1722
+msgid "Post title color on hover."
+msgstr ""
+
+#: inc/jupi-option.php:1728 inc/jupi-option.php:2079 inc/jupi-option.php:2261
+msgid "Title Spacing"
+msgstr ""
+
+#: inc/jupi-option.php:1729 inc/jupi-option.php:2080
+msgid ""
+"Margin around the post title. Input the margin as clockwise (Top Right "
+"Bottom Left)"
+msgstr ""
+
+#: inc/jupi-option.php:1745
+msgid "Post Content"
+msgstr ""
+
+#: inc/jupi-option.php:1752
+msgid "Content Display"
+msgstr ""
+
+#: inc/jupi-option.php:1753
+msgid ""
+"Controls if the blog content displays an excerpt or full content or is "
+"completely disabled for the assigned blog page in \"settings > reading\" or "
+"blog archive pages."
+msgstr ""
+
+#: inc/jupi-option.php:1756
+msgid "Excerpt"
+msgstr ""
+
+#: inc/jupi-option.php:1757
+msgid "Full Content"
+msgstr ""
+
+#: inc/jupi-option.php:1758
+msgid "No Text"
+msgstr ""
+
+#: inc/jupi-option.php:1765
+msgid "Excerpt Length"
+msgstr ""
+
+#: inc/jupi-option.php:1766
+msgid "Min:10, max: 150, step: 1, default value: 30"
+msgstr ""
+
+#: inc/jupi-option.php:1774 inc/jupi-option.php:2118 inc/jupi-option.php:2298
+msgid "Content Style"
+msgstr ""
+
+#: inc/jupi-option.php:1783
+msgid "Content Typography"
+msgstr ""
+
+#: inc/jupi-option.php:1795
+msgid "Content Spacing"
+msgstr ""
+
+#: inc/jupi-option.php:1796
+msgid ""
+"Margin around the post content. Input the margin as clockwise (Top Right "
+"Bottom Left)"
+msgstr ""
+
+#: inc/jupi-option.php:1812
+msgid "Read More"
+msgstr ""
+
+#: inc/jupi-option.php:1821
+msgid "Read More Text"
+msgstr ""
+
+#: inc/jupi-option.php:1822
+msgid "This is a post read more button text."
+msgstr ""
+
+#: inc/jupi-option.php:1823
+msgid "Enter read more button text. HTML tag supported."
+msgstr ""
+
+#: inc/jupi-option.php:1828
+msgid "Read More Button Style"
+msgstr ""
+
+#: inc/jupi-option.php:1837
+msgid "Button Typography"
+msgstr ""
+
+#: inc/jupi-option.php:1849 inc/jupi-option.php:2802
+msgid "Button BG Color"
+msgstr ""
+
+#: inc/jupi-option.php:1856 inc/jupi-option.php:2809
+msgid "Button Hover Color"
+msgstr ""
+
+#: inc/jupi-option.php:1862 inc/jupi-option.php:2815
+msgid "Button Hover BG Color"
+msgstr ""
+
+#: inc/jupi-option.php:1869 inc/jupi-option.php:2830
+msgid "Button Margin"
+msgstr ""
+
+#: inc/jupi-option.php:1870
+msgid ""
+"Margin around the read more button. Input the margin as clockwise (Top Right "
+"Bottom Left)"
+msgstr ""
+
+#: inc/jupi-option.php:1879 inc/jupi-option.php:2840
+msgid "Button Padding"
+msgstr ""
+
+#: inc/jupi-option.php:1880
+msgid ""
+"Padding around the read more button. Input the padding as clockwise (Top "
+"Right Bottom Left)"
+msgstr ""
+
+#: inc/jupi-option.php:1904 inc/jupi-option.php:2865
+msgid ""
+"Radius around the read more button. Input the radius as clockwise (Top Right "
+"Bottom Left)"
+msgstr ""
+
+#: inc/jupi-option.php:1912 inc/jupi-option.php:2873
+msgid "Button Shadow"
+msgstr ""
+
+#: inc/jupi-option.php:1926
+msgid "Post Single"
+msgstr ""
+
+#: inc/jupi-option.php:1933
+msgid "Releted Tags?"
+msgstr ""
+
+#: inc/jupi-option.php:1939
+msgid "Social Share Menu?"
+msgstr ""
+
+#: inc/jupi-option.php:1945
+msgid "Next Post Navigation?"
+msgstr ""
+
+#: inc/jupi-option.php:1951
+msgid "Author Info?"
+msgstr ""
+
+#: inc/jupi-option.php:1958
+msgid "Widget Settings"
+msgstr ""
+
+#: inc/jupi-option.php:1960
+msgid "You can edit widget all default option."
+msgstr ""
+
+#: inc/jupi-option.php:1965
+msgid "Widget Box"
+msgstr ""
+
+#: inc/jupi-option.php:1977
+msgid ""
+"Margin around the widget box. Input the margin as clockwise (Top Right "
+"Bottom Left)"
+msgstr ""
+
+#: inc/jupi-option.php:1987
+msgid ""
+"Padding around the widget box. Input the padding as clockwise (Top Right "
+"Bottom Left)"
+msgstr ""
+
+#: inc/jupi-option.php:1997
+msgid ""
+"Radius around the widget box. Input the radius as clockwise (Top Right "
+"Bottom Left)"
+msgstr ""
+
+#: inc/jupi-option.php:2033
+msgid "Widget Title"
+msgstr ""
+
+#: inc/jupi-option.php:2040 inc/jupi-option.php:2220
+msgid "Widget Bar Position"
+msgstr ""
+
+#: inc/jupi-option.php:2042 inc/jupi-option.php:2222
+msgid "Top"
+msgstr ""
+
+#: inc/jupi-option.php:2044 inc/jupi-option.php:2224
+msgid "Bottom"
+msgstr ""
+
+#: inc/jupi-option.php:2046 inc/jupi-option.php:2226
+msgid "None"
+msgstr ""
+
+#: inc/jupi-option.php:2051 inc/jupi-option.php:2231
+msgid "Title Bar Color"
+msgstr ""
+
+#: inc/jupi-option.php:2092 inc/jupi-option.php:2272
+msgid "Title Border"
+msgstr ""
+
+#: inc/jupi-option.php:2093 inc/jupi-option.php:2273 inc/jupi-option.php:2610
+msgid "Only color validation can be done on this field type"
+msgstr ""
+
+#: inc/jupi-option.php:2113
+msgid "Widget Content"
+msgstr ""
+
+#: inc/jupi-option.php:2137 inc/jupi-option.php:2317
+msgid "Link Hover Color"
+msgstr ""
+
+#: inc/jupi-option.php:2151
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/jupi-option.php:2153
+msgid "You can edit footer all option."
+msgstr ""
+
+#: inc/jupi-option.php:2159
+msgid "Footer Area"
+msgstr ""
+
+#: inc/jupi-option.php:2164
+msgid "Footer Style"
+msgstr ""
+
+#: inc/jupi-option.php:2165
+msgid ""
+"Select a Footer template from here. Leave the field empty to use the default "
+"footer."
+msgstr ""
+
+#: inc/jupi-option.php:2174
+msgid "Warning"
+msgstr ""
+
+#: inc/jupi-option.php:2175
+msgid ""
+"You have selected a Custom Footer template. Now, all the Footer Settings "
+"will not apply. Edit your Footer template with Footer Elementor."
+msgstr ""
+
+#: inc/jupi-option.php:2186
+msgid "Footer Space"
+msgstr ""
+
+#: inc/jupi-option.php:2198
+msgid "Footer Background"
+msgstr ""
+
+#: inc/jupi-option.php:2199
+msgid "Footer background with image, color, etc."
+msgstr ""
+
+#: inc/jupi-option.php:2204
+msgid "Footer Overlay"
+msgstr ""
+
+#: inc/jupi-option.php:2213
+msgid "Footer Widget Title"
+msgstr ""
+
+#: inc/jupi-option.php:2293
+msgid "Footer Widget Content"
+msgstr ""
+
+#: inc/jupi-option.php:2335
+msgid "Footer Bottom"
+msgstr ""
+
+#: inc/jupi-option.php:2344
+msgid "Footer bottom logo image."
+msgstr ""
+
+#: inc/jupi-option.php:2347
+msgid "Copyright Section"
+msgstr ""
+
+#: inc/jupi-option.php:2355
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/jupi-option.php:2356
+msgid "Please type your copyright text. You can use all HTML tags."
+msgstr ""
+
+#: inc/jupi-option.php:2357
+msgid "Copyright By@QuomodoThemes - 2020"
+msgstr ""
+
+#: inc/jupi-option.php:2362
+msgid "Copyright Typography"
+msgstr ""
+
+#: inc/jupi-option.php:2363
+msgid "To change copyright text typography."
+msgstr ""
+
+#: inc/jupi-option.php:2381
+msgid "Cradit Card Section"
+msgstr ""
+
+#: inc/jupi-option.php:2389
+msgid "Visa Card URL"
+msgstr ""
+
+#: inc/jupi-option.php:2394
+msgid "Stripe Card URL"
+msgstr ""
+
+#: inc/jupi-option.php:2399
+msgid "Paypal Card URL"
+msgstr ""
+
+#: inc/jupi-option.php:2404
+msgid "Mastercard Card URL"
+msgstr ""
+
+#: inc/jupi-option.php:2409
+msgid "Jcb Card URL"
+msgstr ""
+
+#: inc/jupi-option.php:2414
+msgid "Discover Card URL"
+msgstr ""
+
+#: inc/jupi-option.php:2419
+msgid "Diners Club Card URL"
+msgstr ""
+
+#: inc/jupi-option.php:2424
+msgid "Apple Pay Card URL"
+msgstr ""
+
+#: inc/jupi-option.php:2429
+msgid "Amex Card URL"
+msgstr ""
+
+#: inc/jupi-option.php:2434
+msgid "Amazon Pay Card URL"
+msgstr ""
+
+#: inc/jupi-option.php:2443
+msgid "Card Items Color"
+msgstr ""
+
+#: inc/jupi-option.php:2444
+msgid "Pick a cradit card item color. (default: #ffffff)."
+msgstr ""
+
+#: inc/jupi-option.php:2451
+msgid "Card Hover Color"
+msgstr ""
+
+#: inc/jupi-option.php:2452
+msgid "Pick a cradit card hover color. (default: #8a19fa)."
+msgstr ""
+
+#: inc/jupi-option.php:2465
+msgid "Footer Bottom Style"
+msgstr ""
+
+#: inc/jupi-option.php:2478
+msgid "Footer Bottom Space"
+msgstr ""
+
+#: inc/jupi-option.php:2483
+msgid "Footer Bottom Overlay"
+msgstr ""
+
+#: inc/jupi-option.php:2497
+msgid "404 page"
+msgstr ""
+
+#: inc/jupi-option.php:2499
+msgid "You can edit error page option."
+msgstr ""
+
+#: inc/jupi-option.php:2505
+msgid "Error Option"
+msgstr ""
+
+#: inc/jupi-option.php:2513
+msgid "404 Image"
+msgstr ""
+
+#: inc/jupi-option.php:2514
+msgid "Error page side image."
+msgstr ""
+
+#: inc/jupi-option.php:2520
+msgid "Title"
+msgstr ""
+
+#: inc/jupi-option.php:2526
+msgid "Sub Title"
+msgstr ""
+
+#: inc/jupi-option.php:2533
+msgid "Error Background"
+msgstr ""
+
+#: inc/jupi-option.php:2534
+msgid "Error background with image, color, etc."
+msgstr ""
+
+#: inc/jupi-option.php:2548
+msgid "Error Title Color"
+msgstr ""
+
+#: inc/jupi-option.php:2549
+msgid "Pick a title color for the 404 (default: #8a19fa)."
+msgstr ""
+
+#: inc/jupi-option.php:2556
+msgid "Error Sub Title Color"
+msgstr ""
+
+#: inc/jupi-option.php:2557
+msgid "Pick a sub title color for the 404 (default: #06163a)."
+msgstr ""
+
+#: inc/jupi-option.php:2564 inc/jupi-option.php:2572
+msgid "Error Button Color"
+msgstr ""
+
+#: inc/jupi-option.php:2565 inc/jupi-option.php:2573
+msgid "Pick a button color for the 404 (default: #ffffff)."
+msgstr ""
+
+#: inc/jupi-option.php:2585
+msgid "Button Background"
+msgstr ""
+
+#: inc/jupi-option.php:2586
+msgid "Error button background color select form here."
+msgstr ""
+
+#: inc/jupi-option.php:2600
+msgid "Hover Background"
+msgstr ""
+
+#: inc/jupi-option.php:2601
+msgid "Error button hover background color select form here."
+msgstr ""
+
+#: inc/jupi-option.php:2625
+msgid "Preloader Settings"
+msgstr ""
+
+#: inc/jupi-option.php:2633
+msgid "loader Switch"
+msgstr ""
+
+#: inc/jupi-option.php:2634 inc/jupi-option.php:2707
+msgid "Enable"
+msgstr ""
+
+#: inc/jupi-option.php:2635 inc/jupi-option.php:2708
+msgid "Disable"
+msgstr ""
+
+#: inc/jupi-option.php:2642
+msgid "Pre-loader Style"
+msgstr ""
+
+#: inc/jupi-option.php:2645
+msgid "Text Preloader"
+msgstr ""
+
+#: inc/jupi-option.php:2646
+msgid "Image Preloader"
+msgstr ""
+
+#: inc/jupi-option.php:2657
+msgid "loader Text"
+msgstr ""
+
+#: inc/jupi-option.php:2673
+msgid "Color"
+msgstr ""
+
+#: inc/jupi-option.php:2689
+msgid "Pre-loader image"
+msgstr ""
+
+#: inc/jupi-option.php:2697
+msgid "Preloader Background"
+msgstr ""
+
+#: inc/jupi-option.php:2698
+msgid "Preloader background color"
+msgstr ""
+
+#: inc/jupi-option.php:2706
+msgid "Close Button"
+msgstr ""
+
+#: inc/jupi-option.php:2714
+msgid "Close Button Text"
+msgstr ""
+
+#: inc/jupi-option.php:2715
+msgid "Preloader colose button text here."
+msgstr ""
+
+#: inc/jupi-option.php:2718
+msgid "Close Preloader"
+msgstr ""
+
+#: inc/jupi-option.php:2776
+msgid "ScrollUp Button"
+msgstr ""
+
+#: inc/jupi-option.php:2783
+msgid "Display Button"
+msgstr ""
+
+#: inc/jupi-option.php:2796
+msgid "Button Color"
+msgstr ""
+
+#: inc/jupi-option.php:2823
+msgid "Set a custom height width for this button."
+msgstr ""
+
+#: inc/jupi-option.php:2831
+msgid ""
+"Margin around the button. Input the margin as clockwise (Top Right Bottom "
+"Left)"
+msgstr ""
+
+#: inc/jupi-option.php:2841
+msgid ""
+"Padding around the button. Input the padding as clockwise (Top Right Bottom "
+"Left)"
+msgstr ""
+
+#: inc/jupi-option.php:2887
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/jupi-option.php:2894
+msgid "Custom CSS Code"
+msgstr ""
+
+#: inc/jupi-option.php:2895
+msgid "Type your custom CSS code here."
+msgstr ""
+
+#: inc/template-tags.php:10
+msgid "Post Author"
+msgstr ""
+
+#: inc/template-tags.php:18
+msgid "Post publish date"
+msgstr ""
+
+#: inc/template-tags.php:22
+msgid "No comment"
+msgstr ""
+
+#: inc/template-tags.php:22
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-tags.php:22
+msgid "% Comments"
+msgstr ""
+
+#: inc/template-tags.php:26 inc/template-tags.php:29
+msgid "Post Categories"
+msgstr ""
+
+#: inc/template-tags.php:32
+msgid "Edit this post"
+msgstr ""
+
+#: inc/template-tags.php:32
+msgid "Edit"
+msgstr ""
+
+#: searchform.php:7
+msgid "Type Keywords"
+msgstr ""
+
+#: single-campaign.php:40
+msgid "Releted Tags"
+msgstr ""
+
+#: single-campaign.php:54 single.php:48
+msgid "Next Post"
+msgstr ""
+
+#: single-campaign.php:55 single.php:49
+msgid "Prev Post"
+msgstr ""
+
+#: single.php:63
+msgid "Written By"
+msgstr ""
+
+#: template-parts/nav-menu.php:150
+msgid "Search Here..."
+msgstr ""
+
+#: template-parts/post-formats/post-audio.php:41
+#: template-parts/post-formats/post-campaign.php:61
+#: template-parts/post-formats/post-gallery.php:39
+#: template-parts/post-formats/post-video.php:39
+#: template-parts/post-formats/post.php:29
+#, php-format
+msgid "Continue reading %s"
+msgstr ""
+
+#: template-parts/post-formats/post-audio.php:49
+#: template-parts/post-formats/post-campaign.php:69
+#: template-parts/post-formats/post-gallery.php:47
+#: template-parts/post-formats/post-page.php:5
+#: template-parts/post-formats/post-video.php:47
+#: template-parts/post-formats/post.php:37
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/post-formats/post-campaign.php:38
+#: template-parts/post-formats/post-campaign.php:118
+msgid "Raised."
+msgstr ""
+
+#: template-parts/post-formats/post-campaign.php:44
+#: template-parts/post-formats/post-campaign.php:124
+msgid "Days to Go."
+msgstr ""
+
+#: template-parts/post-formats/post-campaign.php:50
+#: template-parts/post-formats/post-campaign.php:130
+msgid "Pledged."
+msgstr ""
+
+#: template-parts/post-formats/post-campaign.php:81
+msgid "Project Author"
+msgstr ""
+
+#: template-parts/post-formats/post-none.php:3
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/post-formats/post-none.php:5
+msgid "Ready to publish your first post? "
+msgstr ""
+
+#: template-parts/post-formats/post-none.php:5
+msgid "Get started here"
+msgstr ""
+
+#: template-parts/post-formats/post-none.php:7
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/post-formats/post-none.php:10
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/preloader.php:16
+msgid "Preloader"
+msgstr ""
+
+#: woocommerce/cart/cart.php:30 woocommerce/cart/cart.php:74
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:31 woocommerce/cart/cart.php:94
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:32 woocommerce/cart/cart.php:100
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:33 woocommerce/cart/cart.php:118
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:55 woocommerce/cart/mini-cart.php:45
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:89
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:136
+msgid "Coupon:"
+msgstr ""
+
+#: woocommerce/cart/cart.php:136
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:136
+msgid "Apply coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:141
+msgid "Update cart"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:77
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:85
+msgid "No products in the cart."
+msgstr ""
+
+#: woocommerce/loop/sale-flash.php:28
+#: woocommerce/single-product/sale-flash.php:28
+msgid "Sale!"
+msgstr ""
+
+#: woocommerce/product-searchform.php:26
+msgid "Search your Product..."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:34
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:53
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:63
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:63
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:64
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:69
+msgid "Name"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:71
+msgid "Email"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:74
+msgid "Submit"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:79
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:82
+msgid "Your rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:83
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:84
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:85
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:86
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:87
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:88
+msgid "Very poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:91
+msgid "Your review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:98
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: woocommerce/single-product/meta.php:28
+msgid "SKU:"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:28
+msgid "N/A"
+msgstr ""

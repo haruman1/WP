@@ -1,0 +1,65 @@
+.elementor-template-library-templates-container-wrapper {
+    display: flex;
+    margin-top: 0;
+    justify-content: flex-start;
+    width: 100%;
+}
+div#elementor-template-library-toolbar-cats {
+    width: 25%;
+    margin-top: 20px;
+}
+.woo-ready-template-popup {
+    text-align: left;
+    padding: 10px;
+    padding-right: 0;
+    background: #ffffff;
+    width: 180px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    position: relative;
+    box-shadow: 0 10px 20px rgb(59 55 222 / 8%);
+    border-radius: 5px;
+    height: 98%;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: flex-end;
+}
+.woo-ready-template-popup:before {visibility:hidden;content: "Shop Ready";position: absolute;right: -132%;top: 50%;font-size: 50px;white-space: nowrap;transform: rotate(90deg);transform-origin: center center;opacity: 0.05;font-weight: 700;letter-spacing: 5px;color: #3b37de;}
+label.woo-ready-template-library-cat-text {
+    display: block;
+    padding: 5px 10px;
+    transition: 0.3s;
+    cursor: pointer;
+}
+label.woo-ready-template-library-cat-text:hover,
+label.woo-ready-template-library-cat-text.active {
+    background: #f1f3f5;
+    color: #3b37de;
+    border-left: 4px solid #3b37de;
+}
+
+.woo-ready-template-popup::-webkit-scrollbar  {
+    background:#ffffff;
+    width:3px;
+    cursor:pointer;
+}
+.woo-ready-template-popup::-webkit-scrollbar-thumb {
+  background: #919ed9;
+  border-radius:50px;
+}
+
+
+@media (min-width: 1440px){
+    .elementor-template-library-template-wooreadysrc.elementor-template-library-template-page {
+        width: calc(33% - 30px) !important;
+    }
+}
+
+#elementor-template-library-templates[data-template-source="wooreadysrc"]  #elementor-template-library-templates-container{
+    display: block;
+}
+#elementor-template-library-templates[data-template-source="wooreadysrc"]  #elementor-template-library-templates-container .elementor-template-library-template-remote{ 
+    display: inline-block;
+} 

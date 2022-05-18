@@ -1,0 +1,2357 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jupitercore\n"
+"POT-Creation-Date: 2020-04-27 10:15+0600\n"
+"PO-Revision-Date: 2019-07-03 16:42+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;esc_attr__;esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+"X-Poedit-SearchPathExcluded-1: language\n"
+
+#: addons/widgets/blog.php:41
+msgid "Post Carousel"
+msgstr ""
+
+#: addons/widgets/blog.php:79
+msgid "Post carousel"
+msgstr ""
+
+#: addons/widgets/blog.php:86 addons/widgets/image-carousel.php:36
+#: addons/widgets/portfolio.php:117
+msgid "Carousel"
+msgstr ""
+
+#: addons/widgets/blog.php:88 addons/widgets/feature-more.php:174
+#: addons/widgets/feature-more.php:186 addons/widgets/image-carousel.php:117
+#: addons/widgets/image-carousel.php:129 addons/widgets/image-carousel.php:140
+#: addons/widgets/portfolio.php:119 addons/widgets/portfolio.php:131
+#: addons/widgets/product.php:88 addons/widgets/tab-menu.php:125
+msgid "On"
+msgstr ""
+
+#: addons/widgets/blog.php:89 addons/widgets/feature-more.php:175
+#: addons/widgets/feature-more.php:187 addons/widgets/image-carousel.php:118
+#: addons/widgets/image-carousel.php:130 addons/widgets/image-carousel.php:141
+#: addons/widgets/portfolio.php:120 addons/widgets/portfolio.php:132
+#: addons/widgets/product.php:89 addons/widgets/tab-menu.php:126
+msgid "Off"
+msgstr ""
+
+#: addons/widgets/blog.php:99 addons/widgets/portfolio.php:146
+msgid "Post Option"
+msgstr ""
+
+#: addons/widgets/blog.php:107 addons/widgets/portfolio.php:154
+#: post-type/portfolio.php:76 post-type/portfolio.php:83
+msgid "Categories"
+msgstr ""
+
+#: addons/widgets/blog.php:118 addons/widgets/portfolio.php:165
+#: addons/widgets/product.php:117
+msgid "Limit"
+msgstr ""
+
+#: addons/widgets/blog.php:128 addons/widgets/portfolio.php:176
+#: addons/widgets/product.php:127
+msgid "Custom order"
+msgstr ""
+
+#: addons/widgets/blog.php:138 addons/widgets/portfolio.php:187
+#: addons/widgets/product.php:137
+msgid "Order"
+msgstr ""
+
+#: addons/widgets/blog.php:142 addons/widgets/portfolio.php:191
+#: addons/widgets/product.php:141
+msgid "Descending"
+msgstr ""
+
+#: addons/widgets/blog.php:143 addons/widgets/portfolio.php:192
+#: addons/widgets/product.php:142
+msgid "Ascending"
+msgstr ""
+
+#: addons/widgets/blog.php:154 addons/widgets/portfolio.php:203
+#: addons/widgets/product.php:153
+msgid "Orderby"
+msgstr ""
+
+#: addons/widgets/blog.php:158 addons/widgets/element.php:539
+#: addons/widgets/feature-box.php:514 addons/widgets/feature-more.php:1063
+#: addons/widgets/image-carousel.php:47 addons/widgets/portfolio.php:207
+#: addons/widgets/portfolio.php:579 addons/widgets/portfolio.php:1127
+#: addons/widgets/portfolio.php:1254 addons/widgets/product.php:157
+#: addons/widgets/shortcode.php:510 addons/widgets/tab-menu.php:285
+#: addons/widgets/testimonial.php:1286
+msgid "None"
+msgstr ""
+
+#: addons/widgets/blog.php:159 addons/widgets/portfolio.php:208
+#: addons/widgets/product.php:158
+msgid "ID"
+msgstr ""
+
+#: addons/widgets/blog.php:160 addons/widgets/blog.php:175
+#: addons/widgets/portfolio.php:209 addons/widgets/product.php:159
+#: metabox/metabox.php:24
+msgid "Date"
+msgstr ""
+
+#: addons/widgets/blog.php:161 addons/widgets/portfolio.php:210
+#: addons/widgets/product.php:160 addons/widgets/team.php:139
+#: addons/widgets/testimonial.php:77 addons/widgets/testimonial.php:1144
+msgid "Name"
+msgstr ""
+
+#: addons/widgets/blog.php:162 addons/widgets/blog.php:204
+#: addons/widgets/blog.php:813 addons/widgets/feature-more.php:122
+#: addons/widgets/portfolio.php:211 addons/widgets/portfolio.php:234
+#: addons/widgets/portfolio.php:856 addons/widgets/price.php:49
+#: addons/widgets/price.php:51 addons/widgets/price.php:53
+#: addons/widgets/price.php:409 addons/widgets/product.php:161
+#: addons/widgets/product.php:211 addons/widgets/product.php:794
+#: addons/widgets/progress.php:97 addons/widgets/social-menu.php:106
+#: addons/widgets/text-box.php:45
+msgid "Title"
+msgstr ""
+
+#: addons/widgets/blog.php:163 addons/widgets/portfolio.php:212
+#: addons/widgets/product.php:162
+msgid "Comment count"
+msgstr ""
+
+#: addons/widgets/blog.php:164 addons/widgets/portfolio.php:213
+#: addons/widgets/product.php:163
+msgid "Random"
+msgstr ""
+
+#: addons/widgets/blog.php:184 addons/widgets/product.php:184
+#: addons/widgets/product.php:197
+msgid "Thumbnail"
+msgstr ""
+
+#: addons/widgets/blog.php:194
+msgid "Author"
+msgstr ""
+
+#: addons/widgets/blog.php:214 addons/widgets/portfolio.php:244
+#: addons/widgets/product.php:221
+msgid "Title Length"
+msgstr ""
+
+#: addons/widgets/blog.php:227 addons/widgets/blog.php:915
+#: addons/widgets/tooltip.php:878
+msgid "Content"
+msgstr ""
+
+#: addons/widgets/blog.php:237
+msgid "Content Length"
+msgstr ""
+
+#: addons/widgets/blog.php:250 addons/widgets/blog.php:262
+#: addons/widgets/blog.php:263 addons/widgets/blog.php:1181
+msgid "Read More"
+msgstr ""
+
+#: addons/widgets/blog.php:260
+msgid "Read More button text"
+msgstr ""
+
+#: addons/widgets/blog.php:275
+msgid "Read More icon"
+msgstr ""
+
+#: addons/widgets/blog.php:290 addons/widgets/image-carousel.php:153
+#: addons/widgets/portfolio.php:261 addons/widgets/product.php:247
+#: addons/widgets/team.php:241
+msgid "Carousel Option"
+msgstr ""
+
+#: addons/widgets/blog.php:300 addons/widgets/blog.php:531
+#: addons/widgets/blog.php:586 addons/widgets/feature-more.php:254
+#: addons/widgets/feature-more.php:442 addons/widgets/feature-more.php:497
+#: addons/widgets/image-carousel.php:163 addons/widgets/image-carousel.php:352
+#: addons/widgets/image-carousel.php:407 addons/widgets/portfolio.php:271
+#: addons/widgets/portfolio.php:460 addons/widgets/portfolio.php:515
+#: addons/widgets/product.php:257 addons/widgets/product.php:475
+#: addons/widgets/product.php:530 addons/widgets/team.php:251
+#: addons/widgets/team.php:440 addons/widgets/team.php:495
+#: addons/widgets/testimonial.php:266 addons/widgets/testimonial.php:467
+#: addons/widgets/testimonial.php:522
+msgid "Slider Items"
+msgstr ""
+
+#: addons/widgets/blog.php:315 addons/widgets/feature-more.php:268
+#: addons/widgets/image-carousel.php:178 addons/widgets/portfolio.php:286
+#: addons/widgets/product.php:272 addons/widgets/team.php:266
+#: addons/widgets/testimonial.php:281
+msgid "Slider Arrow"
+msgstr ""
+
+#: addons/widgets/blog.php:328 addons/widgets/feature-more.php:280
+#: addons/widgets/image-carousel.php:191 addons/widgets/portfolio.php:299
+#: addons/widgets/product.php:285 addons/widgets/team.php:279
+#: addons/widgets/testimonial.php:294
+msgid "Previous icon"
+msgstr ""
+
+#: addons/widgets/blog.php:341 addons/widgets/feature-more.php:293
+#: addons/widgets/image-carousel.php:204 addons/widgets/portfolio.php:312
+#: addons/widgets/product.php:298 addons/widgets/team.php:292
+#: addons/widgets/testimonial.php:307
+msgid "Next icon"
+msgstr ""
+
+#: addons/widgets/blog.php:354 addons/widgets/feature-more.php:306
+#: addons/widgets/image-carousel.php:217 addons/widgets/portfolio.php:325
+#: addons/widgets/product.php:311 addons/widgets/team.php:305
+#: addons/widgets/testimonial.php:320
+msgid "Slider dots"
+msgstr ""
+
+#: addons/widgets/blog.php:368 addons/widgets/feature-more.php:320
+#: addons/widgets/image-carousel.php:231 addons/widgets/portfolio.php:339
+#: addons/widgets/product.php:325 addons/widgets/team.php:319
+#: addons/widgets/testimonial.php:334
+msgid "No"
+msgstr ""
+
+#: addons/widgets/blog.php:369 addons/widgets/feature-more.php:321
+#: addons/widgets/image-carousel.php:232 addons/widgets/portfolio.php:340
+#: addons/widgets/product.php:326 addons/widgets/team.php:320
+#: addons/widgets/testimonial.php:335
+msgid "Yes"
+msgstr ""
+
+#: addons/widgets/blog.php:372 addons/widgets/feature-more.php:324
+#: addons/widgets/image-carousel.php:235 addons/widgets/portfolio.php:343
+#: addons/widgets/product.php:329 addons/widgets/team.php:323
+#: addons/widgets/testimonial.php:338
+msgid "Pause on Hover?"
+msgstr ""
+
+#: addons/widgets/blog.php:381 addons/widgets/product.php:338
+msgid "Item Gap"
+msgstr ""
+
+#: addons/widgets/blog.php:410 addons/widgets/feature-more.php:334
+#: addons/widgets/image-carousel.php:244 addons/widgets/portfolio.php:352
+#: addons/widgets/product.php:367 addons/widgets/team.php:332
+#: addons/widgets/testimonial.php:348
+msgid "Center Mode"
+msgstr ""
+
+#: addons/widgets/blog.php:423 addons/widgets/image-carousel.php:257
+msgid "Fade Effect?"
+msgstr ""
+
+#: addons/widgets/blog.php:436 addons/widgets/feature-more.php:347
+#: addons/widgets/image-carousel.php:270 addons/widgets/portfolio.php:365
+#: addons/widgets/product.php:380 addons/widgets/team.php:345
+#: addons/widgets/testimonial.php:373
+msgid "Center padding"
+msgstr ""
+
+#: addons/widgets/blog.php:452 addons/widgets/feature-more.php:363
+#: addons/widgets/portfolio.php:381 addons/widgets/product.php:396
+#: addons/widgets/team.php:361 addons/widgets/testimonial.php:388
+msgid "Vertical Mode"
+msgstr ""
+
+#: addons/widgets/blog.php:465 addons/widgets/feature-more.php:376
+#: addons/widgets/image-carousel.php:286 addons/widgets/portfolio.php:394
+#: addons/widgets/product.php:409 addons/widgets/team.php:374
+#: addons/widgets/testimonial.php:401
+msgid "Slider auto play"
+msgstr ""
+
+#: addons/widgets/blog.php:479 addons/widgets/feature-more.php:390
+#: addons/widgets/image-carousel.php:300 addons/widgets/portfolio.php:408
+#: addons/widgets/product.php:423 addons/widgets/team.php:388
+#: addons/widgets/testimonial.php:415
+msgid "Autoplay speed"
+msgstr ""
+
+#: addons/widgets/blog.php:492 addons/widgets/feature-more.php:403
+#: addons/widgets/image-carousel.php:313 addons/widgets/portfolio.php:421
+#: addons/widgets/product.php:436 addons/widgets/team.php:401
+#: addons/widgets/testimonial.php:428
+msgid "Autoplay animation speed"
+msgstr ""
+
+#: addons/widgets/blog.php:504 addons/widgets/blog.php:546
+#: addons/widgets/blog.php:601 addons/widgets/feature-more.php:415
+#: addons/widgets/feature-more.php:457 addons/widgets/feature-more.php:512
+#: addons/widgets/image-carousel.php:325 addons/widgets/image-carousel.php:367
+#: addons/widgets/image-carousel.php:422 addons/widgets/portfolio.php:433
+#: addons/widgets/portfolio.php:475 addons/widgets/portfolio.php:530
+#: addons/widgets/product.php:448 addons/widgets/product.php:490
+#: addons/widgets/product.php:545 addons/widgets/team.php:413
+#: addons/widgets/team.php:455 addons/widgets/team.php:510
+#: addons/widgets/testimonial.php:440 addons/widgets/testimonial.php:482
+#: addons/widgets/testimonial.php:537
+msgid "Slider item to scroll"
+msgstr ""
+
+#: addons/widgets/blog.php:519 addons/widgets/feature-more.php:430
+#: addons/widgets/image-carousel.php:340 addons/widgets/portfolio.php:448
+#: addons/widgets/product.php:463 addons/widgets/team.php:428
+#: addons/widgets/testimonial.php:455
+msgid "Tablet"
+msgstr ""
+
+#: addons/widgets/blog.php:561 addons/widgets/feature-more.php:472
+#: addons/widgets/image-carousel.php:382 addons/widgets/portfolio.php:490
+#: addons/widgets/product.php:505 addons/widgets/team.php:470
+#: addons/widgets/testimonial.php:497
+msgid "Tablet Resolution"
+msgstr ""
+
+#: addons/widgets/blog.php:562 addons/widgets/feature-more.php:473
+#: addons/widgets/image-carousel.php:383 addons/widgets/portfolio.php:491
+#: addons/widgets/product.php:506 addons/widgets/team.php:471
+#: addons/widgets/testimonial.php:498
+msgid "The resolution to tablet."
+msgstr ""
+
+#: addons/widgets/blog.php:574 addons/widgets/feature-more.php:485
+#: addons/widgets/image-carousel.php:395 addons/widgets/portfolio.php:503
+#: addons/widgets/product.php:518 addons/widgets/team.php:483
+#: addons/widgets/testimonial.php:510
+msgid "Mobile Phone"
+msgstr ""
+
+#: addons/widgets/blog.php:616 addons/widgets/feature-more.php:527
+#: addons/widgets/image-carousel.php:437 addons/widgets/portfolio.php:545
+#: addons/widgets/product.php:560 addons/widgets/team.php:525
+#: addons/widgets/testimonial.php:552
+msgid "Mobile Resolution"
+msgstr ""
+
+#: addons/widgets/blog.php:617 addons/widgets/feature-more.php:528
+#: addons/widgets/image-carousel.php:438 addons/widgets/portfolio.php:546
+#: addons/widgets/product.php:561 addons/widgets/team.php:526
+#: addons/widgets/testimonial.php:553
+msgid "The resolution to mobile."
+msgstr ""
+
+#: addons/widgets/blog.php:633 addons/widgets/feature-more.php:542
+#: addons/widgets/portfolio.php:563 addons/widgets/product.php:577
+#: addons/widgets/social-menu.php:149 addons/widgets/tab-menu.php:149
+#: addons/widgets/team.php:549 addons/widgets/testimonial.php:568
+msgid "Area Style"
+msgstr ""
+
+#: addons/widgets/blog.php:640 addons/widgets/blog.php:701
+#: addons/widgets/blog.php:759 addons/widgets/blog.php:860
+#: addons/widgets/blog.php:950 addons/widgets/blog.php:1056
+#: addons/widgets/blog.php:1227 addons/widgets/blog.php:1834
+#: addons/widgets/button.php:233 addons/widgets/button.php:504
+#: addons/widgets/element.php:558 addons/widgets/element.php:756
+#: addons/widgets/feature-box.php:129 addons/widgets/feature-box.php:533
+#: addons/widgets/feature-box.php:754 addons/widgets/feature-box.php:866
+#: addons/widgets/feature-more.php:550 addons/widgets/feature-more.php:619
+#: addons/widgets/feature-more.php:687 addons/widgets/feature-more.php:1082
+#: addons/widgets/feature-more.php:1300 addons/widgets/feature-more.php:1423
+#: addons/widgets/feature-more.php:1957 addons/widgets/feature-more.php:2154
+#: addons/widgets/image-carousel.php:463 addons/widgets/image-carousel.php:562
+#: addons/widgets/image-carousel.php:654 addons/widgets/image-carousel.php:1252
+#: addons/widgets/lightbox.php:246 addons/widgets/lightbox.php:529
+#: addons/widgets/portfolio.php:623 addons/widgets/portfolio.php:673
+#: addons/widgets/portfolio.php:733 addons/widgets/portfolio.php:904
+#: addons/widgets/portfolio.php:1105 addons/widgets/portfolio.php:1198
+#: addons/widgets/portfolio.php:1798 addons/widgets/price.php:119
+#: addons/widgets/price.php:377 addons/widgets/price.php:455
+#: addons/widgets/price.php:533 addons/widgets/price.php:612
+#: addons/widgets/price.php:710 addons/widgets/product.php:584
+#: addons/widgets/product.php:645 addons/widgets/product.php:703
+#: addons/widgets/product.php:841 addons/widgets/product.php:915
+#: addons/widgets/product.php:974 addons/widgets/product.php:1749
+#: addons/widgets/shortcode.php:142 addons/widgets/shortcode.php:296
+#: addons/widgets/shortcode.php:581 addons/widgets/social-menu.php:187
+#: addons/widgets/social-menu.php:297 addons/widgets/tab-menu.php:157
+#: addons/widgets/tab-menu.php:366 addons/widgets/team.php:556
+#: addons/widgets/team.php:620 addons/widgets/team.php:713
+#: addons/widgets/team.php:831 addons/widgets/team.php:958
+#: addons/widgets/team.php:1034 addons/widgets/team.php:1628
+#: addons/widgets/testimonial.php:576 addons/widgets/testimonial.php:698
+#: addons/widgets/testimonial.php:792 addons/widgets/testimonial.php:880
+#: addons/widgets/testimonial.php:1077 addons/widgets/testimonial.php:1176
+#: addons/widgets/testimonial.php:1243 addons/widgets/testimonial.php:1304
+#: addons/widgets/testimonial.php:1929 addons/widgets/text-box.php:138
+#: addons/widgets/text-box.php:237 addons/widgets/text-box.php:308
+#: addons/widgets/tooltip.php:503 addons/widgets/tooltip.php:693
+msgid "Margin"
+msgstr ""
+
+#: addons/widgets/blog.php:653 addons/widgets/blog.php:713
+#: addons/widgets/blog.php:771 addons/widgets/blog.php:872
+#: addons/widgets/blog.php:962 addons/widgets/blog.php:1068
+#: addons/widgets/blog.php:1239 addons/widgets/blog.php:1471
+#: addons/widgets/button.php:253 addons/widgets/button.php:524
+#: addons/widgets/element.php:574 addons/widgets/element.php:769
+#: addons/widgets/feature-box.php:142 addons/widgets/feature-box.php:553
+#: addons/widgets/feature-box.php:774 addons/widgets/feature-box.php:886
+#: addons/widgets/feature-more.php:563 addons/widgets/feature-more.php:631
+#: addons/widgets/feature-more.php:700 addons/widgets/feature-more.php:1102
+#: addons/widgets/feature-more.php:1320 addons/widgets/feature-more.php:1443
+#: addons/widgets/feature-more.php:1595 addons/widgets/feature-more.php:2173
+#: addons/widgets/image-carousel.php:475 addons/widgets/image-carousel.php:575
+#: addons/widgets/image-carousel.php:667 addons/widgets/image-carousel.php:889
+#: addons/widgets/lightbox.php:266 addons/widgets/lightbox.php:549
+#: addons/widgets/portfolio.php:636 addons/widgets/portfolio.php:685
+#: addons/widgets/portfolio.php:746 addons/widgets/portfolio.php:917
+#: addons/widgets/portfolio.php:972 addons/widgets/portfolio.php:1211
+#: addons/widgets/portfolio.php:1434 addons/widgets/price.php:132
+#: addons/widgets/price.php:358 addons/widgets/price.php:436
+#: addons/widgets/price.php:514 addons/widgets/price.php:593
+#: addons/widgets/price.php:691 addons/widgets/product.php:597
+#: addons/widgets/product.php:657 addons/widgets/product.php:715
+#: addons/widgets/product.php:853 addons/widgets/product.php:927
+#: addons/widgets/product.php:986 addons/widgets/product.php:1124
+#: addons/widgets/product.php:1386 addons/widgets/shortcode.php:162
+#: addons/widgets/shortcode.php:316 addons/widgets/shortcode.php:601
+#: addons/widgets/social-menu.php:206 addons/widgets/social-menu.php:317
+#: addons/widgets/tab-menu.php:177 addons/widgets/tab-menu.php:386
+#: addons/widgets/team.php:569 addons/widgets/team.php:632
+#: addons/widgets/team.php:725 addons/widgets/team.php:851
+#: addons/widgets/team.php:978 addons/widgets/team.php:1054
+#: addons/widgets/team.php:1264 addons/widgets/testimonial.php:589
+#: addons/widgets/testimonial.php:710 addons/widgets/testimonial.php:811
+#: addons/widgets/testimonial.php:900 addons/widgets/testimonial.php:1097
+#: addons/widgets/testimonial.php:1196 addons/widgets/testimonial.php:1256
+#: addons/widgets/testimonial.php:1324 addons/widgets/testimonial.php:1566
+#: addons/widgets/text-box.php:158 addons/widgets/text-box.php:257
+#: addons/widgets/text-box.php:328 addons/widgets/tooltip.php:490
+#: addons/widgets/tooltip.php:706 addons/widgets/tooltip.php:909
+msgid "Padding"
+msgstr ""
+
+#: addons/widgets/blog.php:666 addons/widgets/blog.php:725
+#: addons/widgets/blog.php:1117 addons/widgets/blog.php:1444
+#: addons/widgets/blog.php:1797 addons/widgets/button.php:273
+#: addons/widgets/element.php:356 addons/widgets/element.php:428
+#: addons/widgets/element.php:781 addons/widgets/feature-box.php:355
+#: addons/widgets/feature-more.php:576 addons/widgets/feature-more.php:643
+#: addons/widgets/feature-more.php:919 addons/widgets/feature-more.php:1568
+#: addons/widgets/feature-more.php:1920 addons/widgets/grid-bar.php:273
+#: addons/widgets/image-carousel.php:487 addons/widgets/image-carousel.php:862
+#: addons/widgets/image-carousel.php:1215
+#: addons/widgets/image-carousel.php:1320 addons/widgets/lightbox.php:198
+#: addons/widgets/lightbox.php:357 addons/widgets/portfolio.php:597
+#: addons/widgets/portfolio.php:697 addons/widgets/portfolio.php:769
+#: addons/widgets/portfolio.php:1077 addons/widgets/portfolio.php:1407
+#: addons/widgets/portfolio.php:1761 addons/widgets/product.php:610
+#: addons/widgets/product.php:669 addons/widgets/product.php:1026
+#: addons/widgets/product.php:1359 addons/widgets/product.php:1712
+#: addons/widgets/shortcode.php:243 addons/widgets/shortcode.php:479
+#: addons/widgets/tab-menu.php:222 addons/widgets/team.php:582
+#: addons/widgets/team.php:644 addons/widgets/team.php:737
+#: addons/widgets/team.php:774 addons/widgets/team.php:1237
+#: addons/widgets/team.php:1591 addons/widgets/testimonial.php:628
+#: addons/widgets/testimonial.php:722 addons/widgets/testimonial.php:962
+#: addons/widgets/testimonial.php:1355 addons/widgets/testimonial.php:1539
+#: addons/widgets/testimonial.php:1892 addons/widgets/tooltip.php:605
+#: addons/widgets/tooltip.php:793
+msgid "Width"
+msgstr ""
+
+#: addons/widgets/blog.php:691 addons/widgets/feature-more.php:609
+#: addons/widgets/image-carousel.php:453 addons/widgets/portfolio.php:663
+#: addons/widgets/product.php:635 addons/widgets/team.php:610
+#: addons/widgets/testimonial.php:688
+msgid "Column Style"
+msgstr ""
+
+#: addons/widgets/blog.php:752 addons/widgets/feature-box.php:114
+#: addons/widgets/feature-more.php:672 addons/widgets/image-carousel.php:516
+#: addons/widgets/lightbox.php:161 addons/widgets/portfolio.php:726
+#: addons/widgets/price.php:104 addons/widgets/product.php:696
+#: addons/widgets/team.php:676 addons/widgets/testimonial.php:754
+msgid "Box Style"
+msgstr ""
+
+#: addons/widgets/blog.php:784 addons/widgets/blog.php:1504
+#: addons/widgets/blog.php:1571 addons/widgets/element.php:624
+#: addons/widgets/element.php:698 addons/widgets/element.php:827
+#: addons/widgets/feature-box.php:228 addons/widgets/feature-box.php:315
+#: addons/widgets/feature-box.php:611 addons/widgets/feature-box.php:702
+#: addons/widgets/feature-more.php:786 addons/widgets/feature-more.php:873
+#: addons/widgets/feature-more.php:1160 addons/widgets/feature-more.php:1236
+#: addons/widgets/feature-more.php:1628 addons/widgets/feature-more.php:1695
+#: addons/widgets/image-carousel.php:535 addons/widgets/image-carousel.php:922
+#: addons/widgets/image-carousel.php:989 addons/widgets/lightbox.php:607
+#: addons/widgets/lightbox.php:706 addons/widgets/portfolio.php:1467
+#: addons/widgets/portfolio.php:1534 addons/widgets/price.php:218
+#: addons/widgets/price.php:305 addons/widgets/price.php:751
+#: addons/widgets/price.php:813 addons/widgets/product.php:747
+#: addons/widgets/product.php:1182 addons/widgets/product.php:1243
+#: addons/widgets/product.php:1419 addons/widgets/product.php:1486
+#: addons/widgets/social-menu.php:243 addons/widgets/tab-menu.php:215
+#: addons/widgets/team.php:909 addons/widgets/team.php:1297
+#: addons/widgets/team.php:1364 addons/widgets/testimonial.php:621
+#: addons/widgets/testimonial.php:848 addons/widgets/testimonial.php:955
+#: addons/widgets/testimonial.php:1348 addons/widgets/testimonial.php:1599
+#: addons/widgets/testimonial.php:1666
+msgid "Box Shadow"
+msgstr ""
+
+#: addons/widgets/blog.php:793 addons/widgets/blog.php:1170
+#: addons/widgets/blog.php:1252 addons/widgets/blog.php:1306
+#: addons/widgets/blog.php:1407 addons/widgets/blog.php:1540
+#: addons/widgets/blog.php:1825 addons/widgets/blog.php:1876
+#: addons/widgets/button.php:224 addons/widgets/element.php:523
+#: addons/widgets/element.php:655 addons/widgets/element.php:738
+#: addons/widgets/feature-box.php:163 addons/widgets/feature-box.php:280
+#: addons/widgets/feature-box.php:467 addons/widgets/feature-box.php:655
+#: addons/widgets/feature-more.php:721 addons/widgets/feature-more.php:838
+#: addons/widgets/feature-more.php:1016 addons/widgets/feature-more.php:1218
+#: addons/widgets/feature-more.php:1531 addons/widgets/feature-more.php:1664
+#: addons/widgets/feature-more.php:1948 addons/widgets/feature-more.php:1999
+#: addons/widgets/feature-more.php:2108 addons/widgets/feature-more.php:2266
+#: addons/widgets/grid-bar.php:228 addons/widgets/image-carousel.php:525
+#: addons/widgets/image-carousel.php:645 addons/widgets/image-carousel.php:720
+#: addons/widgets/image-carousel.php:801 addons/widgets/image-carousel.php:958
+#: addons/widgets/image-carousel.php:1243 addons/widgets/lightbox.php:286
+#: addons/widgets/lightbox.php:489 addons/widgets/lightbox.php:658
+#: addons/widgets/portfolio.php:649 addons/widgets/portfolio.php:1370
+#: addons/widgets/portfolio.php:1503 addons/widgets/portfolio.php:1789
+#: addons/widgets/portfolio.php:1840 addons/widgets/price.php:153
+#: addons/widgets/price.php:270 addons/widgets/price.php:396
+#: addons/widgets/price.php:474 addons/widgets/price.php:552
+#: addons/widgets/price.php:631 addons/widgets/price.php:662
+#: addons/widgets/price.php:795 addons/widgets/product.php:756
+#: addons/widgets/product.php:1093 addons/widgets/product.php:1226
+#: addons/widgets/product.php:1322 addons/widgets/product.php:1455
+#: addons/widgets/product.php:1740 addons/widgets/product.php:1791
+#: addons/widgets/shortcode.php:287 addons/widgets/shortcode.php:572
+#: addons/widgets/social-menu.php:226 addons/widgets/social-menu.php:288
+#: addons/widgets/tab-menu.php:198 addons/widgets/tab-menu.php:357
+#: addons/widgets/team.php:822 addons/widgets/team.php:1084
+#: addons/widgets/team.php:1200 addons/widgets/team.php:1333
+#: addons/widgets/team.php:1619 addons/widgets/team.php:1670
+#: addons/widgets/testimonial.php:603 addons/widgets/testimonial.php:831
+#: addons/widgets/testimonial.php:946 addons/widgets/testimonial.php:1338
+#: addons/widgets/testimonial.php:1502 addons/widgets/testimonial.php:1635
+#: addons/widgets/testimonial.php:1920 addons/widgets/testimonial.php:1971
+#: addons/widgets/text-box.php:130 addons/widgets/tooltip.php:596
+#: addons/widgets/tooltip.php:745 addons/widgets/tooltip.php:784
+#: addons/widgets/tooltip.php:923
+msgid "Background"
+msgstr ""
+
+#: addons/widgets/blog.php:801 addons/widgets/blog.php:1270
+#: addons/widgets/blog.php:1324 addons/widgets/blog.php:1493
+#: addons/widgets/blog.php:1559 addons/widgets/blog.php:1855
+#: addons/widgets/blog.php:1894 addons/widgets/button.php:327
+#: addons/widgets/element.php:597 addons/widgets/element.php:671
+#: addons/widgets/element.php:843 addons/widgets/feature-box.php:210
+#: addons/widgets/feature-box.php:297 addons/widgets/feature-box.php:580
+#: addons/widgets/feature-box.php:671 addons/widgets/feature-more.php:768
+#: addons/widgets/feature-more.php:855 addons/widgets/feature-more.php:1129
+#: addons/widgets/feature-more.php:1617 addons/widgets/feature-more.php:1683
+#: addons/widgets/feature-more.php:1978 addons/widgets/feature-more.php:2017
+#: addons/widgets/feature-more.php:2201 addons/widgets/grid-bar.php:246
+#: addons/widgets/image-carousel.php:552 addons/widgets/image-carousel.php:911
+#: addons/widgets/image-carousel.php:977 addons/widgets/image-carousel.php:1273
+#: addons/widgets/image-carousel.php:1356 addons/widgets/lightbox.php:294
+#: addons/widgets/lightbox.php:576 addons/widgets/lightbox.php:675
+#: addons/widgets/portfolio.php:1456 addons/widgets/portfolio.php:1522
+#: addons/widgets/portfolio.php:1819 addons/widgets/price.php:200
+#: addons/widgets/price.php:287 addons/widgets/price.php:731
+#: addons/widgets/product.php:735 addons/widgets/product.php:1151
+#: addons/widgets/product.php:1408 addons/widgets/product.php:1474
+#: addons/widgets/product.php:1770 addons/widgets/progress.php:225
+#: addons/widgets/shortcode.php:344 addons/widgets/shortcode.php:629
+#: addons/widgets/social-menu.php:338 addons/widgets/tab-menu.php:267
+#: addons/widgets/tab-menu.php:414 addons/widgets/team.php:878
+#: addons/widgets/team.php:1286 addons/widgets/team.php:1352
+#: addons/widgets/team.php:1649 addons/widgets/testimonial.php:673
+#: addons/widgets/testimonial.php:855 addons/widgets/testimonial.php:1024
+#: addons/widgets/testimonial.php:1416 addons/widgets/testimonial.php:1588
+#: addons/widgets/testimonial.php:1654 addons/widgets/testimonial.php:1950
+#: addons/widgets/text-box.php:185 addons/widgets/tooltip.php:682
+#: addons/widgets/tooltip.php:847 addons/widgets/tooltip.php:932
+msgid "Border Radius"
+msgstr ""
+
+#: addons/widgets/blog.php:823 addons/widgets/blog.php:925
+#: addons/widgets/blog.php:1014 addons/widgets/blog.php:1202
+#: addons/widgets/blog.php:1289 addons/widgets/blog.php:1363
+#: addons/widgets/blog.php:1523 addons/widgets/button.php:484
+#: addons/widgets/element.php:512 addons/widgets/element.php:721
+#: addons/widgets/feature-box.php:455 addons/widgets/feature-box.php:743
+#: addons/widgets/feature-box.php:822 addons/widgets/feature-box.php:854
+#: addons/widgets/feature-more.php:1004 addons/widgets/feature-more.php:1288
+#: addons/widgets/feature-more.php:1368 addons/widgets/feature-more.php:1401
+#: addons/widgets/feature-more.php:1487 addons/widgets/feature-more.php:1647
+#: addons/widgets/image-carousel.php:634 addons/widgets/image-carousel.php:708
+#: addons/widgets/image-carousel.php:757 addons/widgets/image-carousel.php:941
+#: addons/widgets/lightbox.php:472 addons/widgets/portfolio.php:867
+#: addons/widgets/portfolio.php:957 addons/widgets/portfolio.php:1183
+#: addons/widgets/portfolio.php:1326 addons/widgets/portfolio.php:1486
+#: addons/widgets/price.php:338 addons/widgets/price.php:416
+#: addons/widgets/price.php:494 addons/widgets/price.php:573
+#: addons/widgets/price.php:671 addons/widgets/price.php:767
+#: addons/widgets/product.php:804 addons/widgets/product.php:874
+#: addons/widgets/product.php:949 addons/widgets/product.php:1081
+#: addons/widgets/product.php:1278 addons/widgets/product.php:1438
+#: addons/widgets/shortcode.php:127 addons/widgets/tab-menu.php:344
+#: addons/widgets/tab-menu.php:450 addons/widgets/team.php:942
+#: addons/widgets/team.php:1018 addons/widgets/team.php:1093
+#: addons/widgets/team.php:1156 addons/widgets/team.php:1316
+#: addons/widgets/testimonial.php:931 addons/widgets/testimonial.php:1053
+#: addons/widgets/testimonial.php:1118 addons/widgets/testimonial.php:1152
+#: addons/widgets/testimonial.php:1219 addons/widgets/testimonial.php:1458
+#: addons/widgets/testimonial.php:1618 addons/widgets/text-box.php:113
+#: addons/widgets/text-box.php:222 addons/widgets/text-box.php:293
+#: addons/widgets/tooltip.php:535 addons/widgets/tooltip.php:728
+#: addons/widgets/tooltip.php:884
+msgid "Color"
+msgstr ""
+
+#: addons/widgets/blog.php:839 addons/widgets/blog.php:1031
+#: addons/widgets/button.php:494 addons/widgets/element.php:644
+#: addons/widgets/feature-box.php:643 addons/widgets/feature-more.php:1205
+#: addons/widgets/feature-more.php:1412 addons/widgets/lightbox.php:641
+#: addons/widgets/portfolio.php:882 addons/widgets/portfolio.php:1016
+#: addons/widgets/product.php:820 addons/widgets/product.php:890
+#: addons/widgets/product.php:1214
+msgid "Hover Color"
+msgstr ""
+
+#: addons/widgets/blog.php:852 addons/widgets/blog.php:942
+#: addons/widgets/blog.php:1048 addons/widgets/blog.php:1219
+#: addons/widgets/product.php:833 addons/widgets/product.php:907
+#: addons/widgets/product.php:966 addons/widgets/product.php:1018
+msgid "Typography"
+msgstr ""
+
+#: addons/widgets/blog.php:884 addons/widgets/blog.php:974
+#: addons/widgets/blog.php:1080 addons/widgets/element.php:148
+#: addons/widgets/feature-box.php:172 addons/widgets/feature-box.php:476
+#: addons/widgets/feature-more.php:730 addons/widgets/feature-more.php:1025
+#: addons/widgets/feature-more.php:2056 addons/widgets/lightbox.php:168
+#: addons/widgets/lightbox.php:498 addons/widgets/portfolio.php:797
+#: addons/widgets/portfolio.php:1048 addons/widgets/price.php:162
+#: addons/widgets/product.php:764 addons/widgets/social-menu.php:157
+#: addons/widgets/team.php:683 addons/widgets/team.php:1109
+#: addons/widgets/testimonial.php:762 addons/widgets/text-box.php:66
+#: addons/widgets/tooltip.php:223 addons/widgets/tooltip.php:950
+msgid "Alignment"
+msgstr ""
+
+#: addons/widgets/blog.php:888 addons/widgets/blog.php:978
+#: addons/widgets/blog.php:1084 addons/widgets/button.php:426
+#: addons/widgets/element.php:152 addons/widgets/element.php:252
+#: addons/widgets/element.php:535 addons/widgets/feature-box.php:176
+#: addons/widgets/feature-box.php:480 addons/widgets/feature-box.php:510
+#: addons/widgets/feature-more.php:734 addons/widgets/feature-more.php:1029
+#: addons/widgets/feature-more.php:1059 addons/widgets/feature-more.php:2060
+#: addons/widgets/lightbox.php:172 addons/widgets/lightbox.php:502
+#: addons/widgets/portfolio.php:575 addons/widgets/portfolio.php:801
+#: addons/widgets/portfolio.php:1052 addons/widgets/portfolio.php:1123
+#: addons/widgets/price.php:166 addons/widgets/product.php:768
+#: addons/widgets/product.php:1105 addons/widgets/shortcode.php:506
+#: addons/widgets/social-menu.php:161 addons/widgets/tab-menu.php:281
+#: addons/widgets/team.php:687 addons/widgets/team.php:1113
+#: addons/widgets/testimonial.php:766 addons/widgets/testimonial.php:1282
+#: addons/widgets/text-box.php:70 addons/widgets/tooltip.php:175
+#: addons/widgets/tooltip.php:227 addons/widgets/tooltip.php:954
+msgid "Left"
+msgstr ""
+
+#: addons/widgets/blog.php:892 addons/widgets/blog.php:982
+#: addons/widgets/blog.php:1088 addons/widgets/button.php:430
+#: addons/widgets/element.php:156 addons/widgets/feature-box.php:180
+#: addons/widgets/feature-box.php:484 addons/widgets/feature-more.php:738
+#: addons/widgets/feature-more.php:1033 addons/widgets/feature-more.php:2064
+#: addons/widgets/image-carousel.php:592 addons/widgets/lightbox.php:176
+#: addons/widgets/lightbox.php:506 addons/widgets/portfolio.php:805
+#: addons/widgets/portfolio.php:1056 addons/widgets/price.php:170
+#: addons/widgets/product.php:772 addons/widgets/social-menu.php:165
+#: addons/widgets/team.php:691 addons/widgets/testimonial.php:770
+#: addons/widgets/text-box.php:74 addons/widgets/tooltip.php:231
+#: addons/widgets/tooltip.php:958
+msgid "Center"
+msgstr ""
+
+#: addons/widgets/blog.php:896 addons/widgets/blog.php:986
+#: addons/widgets/blog.php:1092 addons/widgets/button.php:381
+#: addons/widgets/button.php:434 addons/widgets/element.php:160
+#: addons/widgets/element.php:200 addons/widgets/element.php:543
+#: addons/widgets/feature-box.php:184 addons/widgets/feature-box.php:488
+#: addons/widgets/feature-box.php:518 addons/widgets/feature-more.php:742
+#: addons/widgets/feature-more.php:1037 addons/widgets/feature-more.php:1067
+#: addons/widgets/feature-more.php:2068 addons/widgets/feature-more.php:2255
+#: addons/widgets/lightbox.php:180 addons/widgets/lightbox.php:510
+#: addons/widgets/portfolio.php:583 addons/widgets/portfolio.php:809
+#: addons/widgets/portfolio.php:1060 addons/widgets/portfolio.php:1131
+#: addons/widgets/price.php:174 addons/widgets/price.php:784
+#: addons/widgets/product.php:776 addons/widgets/product.php:1109
+#: addons/widgets/shortcode.php:514 addons/widgets/social-menu.php:169
+#: addons/widgets/tab-menu.php:289 addons/widgets/team.php:695
+#: addons/widgets/team.php:1117 addons/widgets/testimonial.php:774
+#: addons/widgets/testimonial.php:1290 addons/widgets/text-box.php:78
+#: addons/widgets/tooltip.php:176 addons/widgets/tooltip.php:235
+#: addons/widgets/tooltip.php:962
+msgid "Right"
+msgstr ""
+
+#: addons/widgets/blog.php:900 addons/widgets/blog.php:990
+#: addons/widgets/blog.php:1096 addons/widgets/feature-box.php:188
+#: addons/widgets/feature-box.php:492 addons/widgets/feature-more.php:746
+#: addons/widgets/feature-more.php:1041 addons/widgets/feature-more.php:2072
+#: addons/widgets/lightbox.php:184 addons/widgets/lightbox.php:514
+#: addons/widgets/portfolio.php:813 addons/widgets/portfolio.php:1064
+#: addons/widgets/price.php:178 addons/widgets/product.php:780
+#: addons/widgets/social-menu.php:173 addons/widgets/team.php:699
+#: addons/widgets/testimonial.php:778 addons/widgets/text-box.php:82
+#: addons/widgets/tooltip.php:239 addons/widgets/tooltip.php:966
+msgid "Justified"
+msgstr ""
+
+#: addons/widgets/blog.php:1007
+msgid "Meta"
+msgstr ""
+
+#: addons/widgets/blog.php:1109 addons/widgets/grid-bar.php:219
+msgid "Bar Style"
+msgstr ""
+
+#: addons/widgets/blog.php:1143 addons/widgets/blog.php:1417
+#: addons/widgets/blog.php:1770 addons/widgets/button.php:296
+#: addons/widgets/element.php:382 addons/widgets/element.php:451
+#: addons/widgets/element.php:803 addons/widgets/feature-box.php:382
+#: addons/widgets/feature-more.php:942 addons/widgets/feature-more.php:1541
+#: addons/widgets/feature-more.php:1894 addons/widgets/image-carousel.php:810
+#: addons/widgets/image-carousel.php:1188
+#: addons/widgets/image-carousel.php:1293 addons/widgets/lightbox.php:222
+#: addons/widgets/lightbox.php:384 addons/widgets/portfolio.php:1380
+#: addons/widgets/portfolio.php:1734 addons/widgets/product.php:1053
+#: addons/widgets/product.php:1332 addons/widgets/product.php:1685
+#: addons/widgets/shortcode.php:220 addons/widgets/shortcode.php:456
+#: addons/widgets/shortcode.php:528 addons/widgets/tab-menu.php:244
+#: addons/widgets/team.php:797 addons/widgets/team.php:1210
+#: addons/widgets/team.php:1564 addons/widgets/testimonial.php:650
+#: addons/widgets/testimonial.php:988 addons/widgets/testimonial.php:1381
+#: addons/widgets/testimonial.php:1512 addons/widgets/testimonial.php:1865
+#: addons/widgets/tooltip.php:628 addons/widgets/tooltip.php:816
+msgid "Height"
+msgstr ""
+
+#: addons/widgets/blog.php:1195 addons/widgets/blog.php:1356
+#: addons/widgets/blog.php:1763 addons/widgets/button.php:204
+#: addons/widgets/element.php:421 addons/widgets/feature-box.php:122
+#: addons/widgets/feature-box.php:348 addons/widgets/feature-box.php:729
+#: addons/widgets/feature-more.php:680 addons/widgets/feature-more.php:906
+#: addons/widgets/feature-more.php:1274 addons/widgets/feature-more.php:1480
+#: addons/widgets/feature-more.php:1887 addons/widgets/feature-more.php:2088
+#: addons/widgets/image-carousel.php:620 addons/widgets/image-carousel.php:750
+#: addons/widgets/image-carousel.php:1181 addons/widgets/lightbox.php:350
+#: addons/widgets/portfolio.php:944 addons/widgets/portfolio.php:1155
+#: addons/widgets/portfolio.php:1319 addons/widgets/portfolio.php:1727
+#: addons/widgets/price.php:112 addons/widgets/price.php:654
+#: addons/widgets/product.php:1010 addons/widgets/product.php:1271
+#: addons/widgets/product.php:1678 addons/widgets/shortcode.php:267
+#: addons/widgets/shortcode.php:552 addons/widgets/social-menu.php:268
+#: addons/widgets/tab-menu.php:337 addons/widgets/team.php:1149
+#: addons/widgets/team.php:1557 addons/widgets/testimonial.php:1451
+#: addons/widgets/testimonial.php:1858 addons/widgets/tooltip.php:529
+msgid "Normal"
+msgstr ""
+
+#: addons/widgets/blog.php:1262 addons/widgets/blog.php:1316
+#: addons/widgets/blog.php:1485 addons/widgets/blog.php:1551
+#: addons/widgets/blog.php:1847 addons/widgets/blog.php:1886
+#: addons/widgets/button.php:544 addons/widgets/element.php:590
+#: addons/widgets/element.php:664 addons/widgets/element.php:835
+#: addons/widgets/feature-box.php:203 addons/widgets/feature-box.php:290
+#: addons/widgets/feature-box.php:573 addons/widgets/feature-box.php:664
+#: addons/widgets/feature-more.php:761 addons/widgets/feature-more.php:848
+#: addons/widgets/feature-more.php:1122 addons/widgets/feature-more.php:1227
+#: addons/widgets/feature-more.php:1609 addons/widgets/feature-more.php:1675
+#: addons/widgets/feature-more.php:1970 addons/widgets/feature-more.php:2009
+#: addons/widgets/image-carousel.php:544 addons/widgets/image-carousel.php:903
+#: addons/widgets/image-carousel.php:969 addons/widgets/image-carousel.php:1265
+#: addons/widgets/image-carousel.php:1348 addons/widgets/lightbox.php:569
+#: addons/widgets/lightbox.php:668 addons/widgets/portfolio.php:1448
+#: addons/widgets/portfolio.php:1514 addons/widgets/portfolio.php:1811
+#: addons/widgets/price.php:193 addons/widgets/price.php:280
+#: addons/widgets/price.php:723 addons/widgets/price.php:804
+#: addons/widgets/product.php:728 addons/widgets/product.php:1144
+#: addons/widgets/product.php:1235 addons/widgets/product.php:1400
+#: addons/widgets/product.php:1466 addons/widgets/product.php:1762
+#: addons/widgets/shortcode.php:182 addons/widgets/social-menu.php:235
+#: addons/widgets/tab-menu.php:207 addons/widgets/team.php:871
+#: addons/widgets/team.php:1278 addons/widgets/team.php:1344
+#: addons/widgets/team.php:1641 addons/widgets/testimonial.php:613
+#: addons/widgets/testimonial.php:840 addons/widgets/testimonial.php:1016
+#: addons/widgets/testimonial.php:1408 addons/widgets/testimonial.php:1580
+#: addons/widgets/testimonial.php:1646 addons/widgets/testimonial.php:1942
+#: addons/widgets/text-box.php:178 addons/widgets/tooltip.php:674
+#: addons/widgets/tooltip.php:755 addons/widgets/tooltip.php:839
+msgid "Border"
+msgstr ""
+
+#: addons/widgets/blog.php:1283 addons/widgets/blog.php:1516
+#: addons/widgets/button.php:356 addons/widgets/element.php:631
+#: addons/widgets/feature-box.php:272 addons/widgets/feature-box.php:637
+#: addons/widgets/feature-box.php:815 addons/widgets/feature-more.php:830
+#: addons/widgets/feature-more.php:1199 addons/widgets/feature-more.php:1361
+#: addons/widgets/feature-more.php:1640 addons/widgets/feature-more.php:2230
+#: addons/widgets/image-carousel.php:701 addons/widgets/image-carousel.php:934
+#: addons/widgets/lightbox.php:635 addons/widgets/portfolio.php:1010
+#: addons/widgets/portfolio.php:1242 addons/widgets/portfolio.php:1479
+#: addons/widgets/price.php:262 addons/widgets/price.php:761
+#: addons/widgets/product.php:1208 addons/widgets/product.php:1431
+#: addons/widgets/shortcode.php:658 addons/widgets/social-menu.php:367
+#: addons/widgets/tab-menu.php:443 addons/widgets/team.php:1309
+#: addons/widgets/testimonial.php:1611 addons/widgets/tooltip.php:722
+msgid "Hover"
+msgstr ""
+
+#: addons/widgets/blog.php:1341 addons/widgets/feature-more.php:1465
+#: addons/widgets/image-carousel.php:735 addons/widgets/portfolio.php:1304
+#: addons/widgets/product.php:1256 addons/widgets/team.php:1134
+#: addons/widgets/testimonial.php:1436 addons/widgets/tooltip.php:983
+msgid "Arrow"
+msgstr ""
+
+#: addons/widgets/blog.php:1379 addons/widgets/feature-more.php:988
+#: addons/widgets/feature-more.php:1503 addons/widgets/image-carousel.php:773
+#: addons/widgets/portfolio.php:1342 addons/widgets/product.php:1294
+#: addons/widgets/team.php:1172 addons/widgets/testimonial.php:1474
+msgid "Font Size"
+msgstr ""
+
+#: addons/widgets/blog.php:1584 addons/widgets/feature-more.php:1708
+#: addons/widgets/image-carousel.php:1002 addons/widgets/portfolio.php:1547
+#: addons/widgets/product.php:1499 addons/widgets/team.php:1377
+#: addons/widgets/testimonial.php:1679
+msgid "Arrow Position"
+msgstr ""
+
+#: addons/widgets/blog.php:1596 addons/widgets/feature-more.php:1720
+#: addons/widgets/image-carousel.php:1014 addons/widgets/portfolio.php:1559
+#: addons/widgets/product.php:1511 addons/widgets/team.php:1389
+#: addons/widgets/testimonial.php:1691
+msgid "Prev"
+msgstr ""
+
+#: addons/widgets/blog.php:1603 addons/widgets/blog.php:1679
+#: addons/widgets/feature-more.php:1727 addons/widgets/feature-more.php:1803
+#: addons/widgets/image-carousel.php:1021
+#: addons/widgets/image-carousel.php:1097 addons/widgets/portfolio.php:1566
+#: addons/widgets/portfolio.php:1642 addons/widgets/product.php:1518
+#: addons/widgets/product.php:1594 addons/widgets/team.php:1396
+#: addons/widgets/team.php:1472 addons/widgets/testimonial.php:1698
+#: addons/widgets/testimonial.php:1774
+msgid "Position X"
+msgstr ""
+
+#: addons/widgets/blog.php:1635 addons/widgets/blog.php:1711
+#: addons/widgets/feature-more.php:1759 addons/widgets/feature-more.php:1835
+#: addons/widgets/image-carousel.php:1053
+#: addons/widgets/image-carousel.php:1129 addons/widgets/portfolio.php:1598
+#: addons/widgets/portfolio.php:1674 addons/widgets/product.php:1550
+#: addons/widgets/product.php:1626 addons/widgets/team.php:1428
+#: addons/widgets/team.php:1504 addons/widgets/testimonial.php:1730
+#: addons/widgets/testimonial.php:1806
+msgid "Position Y"
+msgstr ""
+
+#: addons/widgets/blog.php:1672 addons/widgets/feature-more.php:1796
+#: addons/widgets/image-carousel.php:1090 addons/widgets/portfolio.php:1635
+#: addons/widgets/product.php:1587 addons/widgets/team.php:1465
+#: addons/widgets/testimonial.php:1767
+msgid "Next"
+msgstr ""
+
+#: addons/widgets/blog.php:1749 addons/widgets/feature-more.php:1873
+#: addons/widgets/image-carousel.php:1167 addons/widgets/portfolio.php:1713
+#: addons/widgets/product.php:1664 addons/widgets/team.php:1543
+#: addons/widgets/testimonial.php:1844
+msgid "Pagination"
+msgstr ""
+
+#: addons/widgets/blog.php:1868 addons/widgets/feature-more.php:1991
+#: addons/widgets/image-carousel.php:1286 addons/widgets/portfolio.php:1832
+#: addons/widgets/product.php:1783 addons/widgets/team.php:1662
+#: addons/widgets/testimonial.php:1963
+msgid "Active"
+msgstr ""
+
+#: addons/widgets/button.php:42 addons/widgets/button.php:99
+#: addons/widgets/button.php:196 addons/widgets/price.php:644
+#: addons/widgets/shortcode.php:440 addons/widgets/social-menu.php:251
+#: addons/widgets/tab-menu.php:320 addons/widgets/tooltip.php:519
+msgid "Button"
+msgstr ""
+
+#: addons/widgets/button.php:106 addons/widgets/element.php:67
+#: addons/widgets/element.php:100 addons/widgets/feature-more.php:58
+#: addons/widgets/tab-menu.php:52 addons/widgets/tab-menu.php:73
+#: addons/widgets/tooltip.php:50 addons/widgets/tooltip.php:69
+msgid "Text"
+msgstr ""
+
+#: addons/widgets/button.php:111 addons/widgets/feature-more.php:228
+#: addons/widgets/lightbox.php:111 addons/widgets/price.php:78
+msgid "Button Text"
+msgstr ""
+
+#: addons/widgets/button.php:112
+msgid "Enter Button Text..."
+msgstr ""
+
+#: addons/widgets/button.php:119 addons/widgets/price.php:87
+#: addons/widgets/social-menu.php:114 addons/widgets/tooltip.php:133
+msgid "Link"
+msgstr ""
+
+#: addons/widgets/button.php:124 addons/widgets/feature-more.php:136
+#: addons/widgets/lightbox.php:135 addons/widgets/social-menu.php:119
+#: addons/widgets/tooltip.php:135
+msgid "https://your-link.com"
+msgstr ""
+
+#: addons/widgets/button.php:133
+msgid "Enable Icon"
+msgstr ""
+
+#: addons/widgets/button.php:135 addons/widgets/button.php:185
+#: addons/widgets/lightbox.php:150 addons/widgets/progress.php:142
+#: addons/widgets/tooltip.php:123
+msgid "Show"
+msgstr ""
+
+#: addons/widgets/button.php:136 addons/widgets/button.php:186
+#: addons/widgets/lightbox.php:151 addons/widgets/progress.php:143
+#: addons/widgets/tooltip.php:124
+msgid "Hide"
+msgstr ""
+
+#: addons/widgets/button.php:144 addons/widgets/element.php:71
+#: addons/widgets/element.php:87 addons/widgets/feature-box.php:44
+#: addons/widgets/feature-box.php:81 addons/widgets/feature-more.php:54
+#: addons/widgets/feature-more.php:95 addons/widgets/social-menu.php:97
+#: addons/widgets/tab-menu.php:53 addons/widgets/tab-menu.php:61
+#: addons/widgets/testimonial.php:190 addons/widgets/testimonial.php:229
+#: addons/widgets/tooltip.php:46 addons/widgets/tooltip.php:83
+msgid "Icon"
+msgstr ""
+
+#: addons/widgets/button.php:157 addons/widgets/progress.php:150
+msgid "View"
+msgstr ""
+
+#: addons/widgets/button.php:166
+msgid "Button ID"
+msgstr ""
+
+#: addons/widgets/button.php:172
+msgid "Add your custom id WITHOUT the Pound key. e.g: my-id"
+msgstr ""
+
+#: addons/widgets/button.php:174
+msgid ""
+"Please make sure the ID is unique and not used elsewhere on the page this "
+"form is displayed. This field allows <code>A-z 0-9</code> & underscore chars "
+"without spaces."
+msgstr ""
+
+#: addons/widgets/button.php:183
+msgid "Lightbox Enable"
+msgstr ""
+
+#: addons/widgets/button.php:211 addons/widgets/button.php:363
+#: addons/widgets/feature-more.php:2095 addons/widgets/feature-more.php:2237
+#: addons/widgets/progress.php:247 addons/widgets/shortcode.php:274
+#: addons/widgets/shortcode.php:380 addons/widgets/shortcode.php:559
+#: addons/widgets/shortcode.php:665 addons/widgets/social-menu.php:275
+#: addons/widgets/social-menu.php:374
+msgid "Text Color"
+msgstr ""
+
+#: addons/widgets/button.php:375 addons/widgets/feature-more.php:2249
+#: addons/widgets/price.php:778
+msgid "Effect Position"
+msgstr ""
+
+#: addons/widgets/button.php:379 addons/widgets/feature-more.php:2253
+#: addons/widgets/price.php:782
+msgid "Fade"
+msgstr ""
+
+#: addons/widgets/button.php:380 addons/widgets/element.php:174
+#: addons/widgets/feature-more.php:2254 addons/widgets/price.php:783
+#: addons/widgets/tooltip.php:177
+msgid "Top"
+msgstr ""
+
+#: addons/widgets/button.php:382 addons/widgets/element.php:226
+#: addons/widgets/feature-more.php:2256 addons/widgets/price.php:785
+#: addons/widgets/tooltip.php:178
+msgid "Bottom"
+msgstr ""
+
+#: addons/widgets/button.php:383 addons/widgets/feature-more.php:2257
+#: addons/widgets/price.php:786
+msgid "left"
+msgstr ""
+
+#: addons/widgets/button.php:392 addons/widgets/shortcode.php:678
+#: addons/widgets/social-menu.php:388
+msgid "Hover Background"
+msgstr ""
+
+#: addons/widgets/button.php:401 addons/widgets/feature-more.php:2276
+#: addons/widgets/shortcode.php:402 addons/widgets/shortcode.php:687
+#: addons/widgets/social-menu.php:397 addons/widgets/tab-menu.php:474
+msgid "Border Color"
+msgstr ""
+
+#: addons/widgets/button.php:422
+msgid "Icon Alignment"
+msgstr ""
+
+#: addons/widgets/button.php:447 addons/widgets/feature-more.php:1243
+#: addons/widgets/tab-menu.php:303 addons/widgets/tab-menu.php:496
+msgid "Custom CSS"
+msgstr ""
+
+#: addons/widgets/button.php:466 addons/widgets/element.php:710
+msgid "Text Style"
+msgstr ""
+
+#: addons/widgets/element.php:22
+msgid "Position Element"
+msgstr ""
+
+#: addons/widgets/element.php:58 addons/widgets/element.php:141
+msgid "Element Options"
+msgstr ""
+
+#: addons/widgets/element.php:63 addons/widgets/tab-menu.php:48
+msgid "Element Type"
+msgstr ""
+
+#: addons/widgets/element.php:75 addons/widgets/feature-box.php:40
+#: addons/widgets/feature-box.php:55 addons/widgets/feature-more.php:50
+#: addons/widgets/feature-more.php:69 addons/widgets/image-carousel.php:60
+#: addons/widgets/tab-menu.php:54 addons/widgets/testimonial.php:108
+#: addons/widgets/testimonial.php:186 addons/widgets/testimonial.php:203
+#: addons/widgets/testimonial.php:1271 addons/widgets/tooltip.php:54
+#: addons/widgets/tooltip.php:95
+msgid "Image"
+msgstr ""
+
+#: addons/widgets/element.php:106 addons/widgets/tab-menu.php:79
+msgid "Enter your Text"
+msgstr ""
+
+#: addons/widgets/element.php:107 addons/widgets/tab-menu.php:80
+msgid "Add Your Text "
+msgstr ""
+
+#: addons/widgets/element.php:113 addons/widgets/tab-menu.php:86
+#: addons/widgets/team.php:106
+msgid "Choose Image"
+msgstr ""
+
+#: addons/widgets/element.php:278 addons/widgets/flotingeffect.php:61
+msgid "Translate X"
+msgstr ""
+
+#: addons/widgets/element.php:301 addons/widgets/flotingeffect.php:91
+msgid "Translate Y"
+msgstr ""
+
+#: addons/widgets/element.php:324 addons/widgets/flotingeffect.php:166
+msgid "Rotate"
+msgstr ""
+
+#: addons/widgets/element.php:342 addons/widgets/grid-bar.php:178
+#: addons/widgets/tooltip.php:356
+msgid "Z Index"
+msgstr ""
+
+#: addons/widgets/element.php:411 addons/widgets/feature-box.php:339
+msgid "Icon Style"
+msgstr ""
+
+#: addons/widgets/element.php:473 addons/widgets/feature-box.php:409
+#: addons/widgets/feature-more.php:965 addons/widgets/image-carousel.php:836
+#: addons/widgets/lightbox.php:411 addons/widgets/tooltip.php:651
+msgid "Line Height"
+msgstr ""
+
+#: addons/widgets/element.php:496 addons/widgets/feature-box.php:436
+#: addons/widgets/lightbox.php:440
+msgid "Font Icon Size"
+msgstr ""
+
+#: addons/widgets/element.php:531 addons/widgets/feature-box.php:506
+#: addons/widgets/feature-more.php:1055
+msgid "Float Icon"
+msgstr ""
+
+#: addons/widgets/element.php:637
+msgid "Hover Animation"
+msgstr ""
+
+#: addons/widgets/feature-box.php:14 addons/widgets/feature-box.php:29
+msgid "Feature Box"
+msgstr ""
+
+#: addons/widgets/feature-box.php:36 addons/widgets/feature-more.php:46
+msgid "Feature Icon Type"
+msgstr ""
+
+#: addons/widgets/feature-box.php:93
+msgid "Feature Title"
+msgstr ""
+
+#: addons/widgets/feature-box.php:95
+msgid "This is a title"
+msgstr ""
+
+#: addons/widgets/feature-box.php:96
+msgid "Features Title"
+msgstr ""
+
+#: addons/widgets/feature-box.php:102
+msgid "Feature Content"
+msgstr ""
+
+#: addons/widgets/feature-box.php:104
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod "
+"tempor incidi."
+msgstr ""
+
+#: addons/widgets/feature-box.php:105
+msgid "Features content"
+msgstr ""
+
+#: addons/widgets/feature-box.php:237 addons/widgets/feature-box.php:322
+#: addons/widgets/feature-more.php:795 addons/widgets/feature-more.php:880
+#: addons/widgets/lightbox.php:324 addons/widgets/price.php:227
+#: addons/widgets/price.php:312
+msgid "Transform"
+msgstr ""
+
+#: addons/widgets/feature-box.php:249 addons/widgets/feature-box.php:618
+#: addons/widgets/feature-box.php:794 addons/widgets/feature-more.php:807
+#: addons/widgets/feature-more.php:1167 addons/widgets/feature-more.php:1340
+#: addons/widgets/image-carousel.php:680 addons/widgets/lightbox.php:614
+#: addons/widgets/portfolio.php:991 addons/widgets/portfolio.php:1223
+#: addons/widgets/price.php:239 addons/widgets/product.php:1189
+msgid "Transition Duration"
+msgstr ""
+
+#: addons/widgets/feature-box.php:720 addons/widgets/feature-more.php:1265
+#: addons/widgets/progress.php:239
+msgid "Title Style"
+msgstr ""
+
+#: addons/widgets/feature-box.php:840 addons/widgets/feature-more.php:1387
+msgid "Content Style"
+msgstr ""
+
+#: addons/widgets/feature-more.php:15
+msgid "Load Feature"
+msgstr ""
+
+#: addons/widgets/feature-more.php:38
+msgid "Load Feature Content"
+msgstr ""
+
+#: addons/widgets/feature-more.php:107 addons/widgets/feature-more.php:111
+#: addons/widgets/price.php:38 addons/widgets/price.php:40
+#: addons/widgets/price.php:42 addons/widgets/price.php:331
+#: addons/widgets/text-box.php:36
+msgid "Top Title"
+msgstr ""
+
+#: addons/widgets/feature-more.php:109
+msgid "Enter the text"
+msgstr ""
+
+#: addons/widgets/feature-more.php:110
+msgid "Hello World!"
+msgstr ""
+
+#: addons/widgets/feature-more.php:124
+msgid "Enter the feature title"
+msgstr ""
+
+#: addons/widgets/feature-more.php:125
+msgid "Podcast & Live Strem Video"
+msgstr ""
+
+#: addons/widgets/feature-more.php:126
+msgid "Feature title"
+msgstr ""
+
+#: addons/widgets/feature-more.php:134
+msgid "Title Link"
+msgstr ""
+
+#: addons/widgets/feature-more.php:144 addons/widgets/price.php:69
+#: addons/widgets/price.php:487 addons/widgets/text-box.php:56
+msgid "Description"
+msgstr ""
+
+#: addons/widgets/feature-more.php:146
+msgid "Enter your feature description."
+msgstr ""
+
+#: addons/widgets/feature-more.php:147
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod "
+"tempor incididunt ut labore."
+msgstr ""
+
+#: addons/widgets/feature-more.php:148
+msgid "Feature Description"
+msgstr ""
+
+#: addons/widgets/feature-more.php:156
+msgid "Repeater List"
+msgstr ""
+
+#: addons/widgets/feature-more.php:162
+msgid "Supply food in rural areas"
+msgstr ""
+
+#: addons/widgets/feature-more.php:172 addons/widgets/image-carousel.php:115
+#: addons/widgets/team.php:227 addons/widgets/testimonial.php:162
+msgid "Slider"
+msgstr ""
+
+#: addons/widgets/feature-more.php:184
+msgid "Load More Button"
+msgstr ""
+
+#: addons/widgets/feature-more.php:198
+msgid "Default Load"
+msgstr ""
+
+#: addons/widgets/feature-more.php:213
+msgid "Slice Item"
+msgstr ""
+
+#: addons/widgets/feature-more.php:230
+msgid "Load More +"
+msgstr ""
+
+#: addons/widgets/feature-more.php:231
+msgid "Enter button text..."
+msgstr ""
+
+#: addons/widgets/feature-more.php:244 addons/widgets/testimonial.php:256
+msgid "Slider Option"
+msgstr ""
+
+#: addons/widgets/feature-more.php:897
+msgid "Icon Box"
+msgstr ""
+
+#: addons/widgets/feature-more.php:1186
+msgid "Icon Custom CSS"
+msgstr ""
+
+#: addons/widgets/feature-more.php:2037
+msgid "Load Button"
+msgstr ""
+
+#: addons/widgets/feature-more.php:2120 addons/widgets/product.php:1101
+#: addons/widgets/team.php:128
+msgid "Position"
+msgstr ""
+
+#: addons/widgets/feature-more.php:2124
+msgid "Static"
+msgstr ""
+
+#: addons/widgets/feature-more.php:2125
+msgid "Relative"
+msgstr ""
+
+#: addons/widgets/feature-more.php:2126
+msgid "Absolute"
+msgstr ""
+
+#: addons/widgets/feature-more.php:2127
+msgid "Fixed"
+msgstr ""
+
+#: addons/widgets/feature-more.php:2138
+msgid "Position Align"
+msgstr ""
+
+#: addons/widgets/feature-more.php:2383
+msgid "Load More"
+msgstr ""
+
+#: addons/widgets/flotingeffect.php:36
+msgid "Movement Effects"
+msgstr ""
+
+#: addons/widgets/flotingeffect.php:46
+msgid "Translate"
+msgstr ""
+
+#: addons/widgets/flotingeffect.php:117 addons/widgets/flotingeffect.php:244
+#: addons/widgets/flotingeffect.php:352
+msgid "Duration"
+msgstr ""
+
+#: addons/widgets/flotingeffect.php:142 addons/widgets/flotingeffect.php:269
+#: addons/widgets/flotingeffect.php:377
+msgid "Delay"
+msgstr ""
+
+#: addons/widgets/flotingeffect.php:181
+msgid "Rotate X"
+msgstr ""
+
+#: addons/widgets/flotingeffect.php:202
+msgid "Rotate Y"
+msgstr ""
+
+#: addons/widgets/flotingeffect.php:223
+msgid "Rotate Z"
+msgstr ""
+
+#: addons/widgets/flotingeffect.php:293
+msgid "Scale"
+msgstr ""
+
+#: addons/widgets/flotingeffect.php:308
+msgid "Scale X"
+msgstr ""
+
+#: addons/widgets/flotingeffect.php:330
+msgid "Scale Y"
+msgstr ""
+
+#: addons/widgets/grid-bar.php:14 addons/widgets/grid-bar.php:30
+msgid "Grid Bar"
+msgstr ""
+
+#: addons/widgets/grid-bar.php:37
+msgid "Bar Limit"
+msgstr ""
+
+#: addons/widgets/grid-bar.php:52
+msgid "Options"
+msgstr ""
+
+#: addons/widgets/grid-bar.php:58 addons/widgets/tooltip.php:254
+msgid "Element Width"
+msgstr ""
+
+#: addons/widgets/grid-bar.php:88 addons/widgets/tooltip.php:280
+msgid "Element Height"
+msgstr ""
+
+#: addons/widgets/grid-bar.php:120 addons/widgets/tooltip.php:306
+msgid "Horizontal Offset"
+msgstr ""
+
+#: addons/widgets/grid-bar.php:149 addons/widgets/tooltip.php:331
+msgid "Vertical Offset"
+msgstr ""
+
+#: addons/widgets/grid-bar.php:193 addons/widgets/tooltip.php:469
+msgid "Opacity (%)"
+msgstr ""
+
+#: addons/widgets/image-carousel.php:13
+msgid "Image Carousel"
+msgstr ""
+
+#: addons/widgets/image-carousel.php:43
+msgid "Click Event"
+msgstr ""
+
+#: addons/widgets/image-carousel.php:48
+msgid "Lightbox"
+msgstr ""
+
+#: addons/widgets/image-carousel.php:49 addons/widgets/image-carousel.php:85
+msgid "Custom Link"
+msgstr ""
+
+#: addons/widgets/image-carousel.php:77
+msgid "Image Caption"
+msgstr ""
+
+#: addons/widgets/image-carousel.php:87
+msgid "http://your-link.com"
+msgstr ""
+
+#: addons/widgets/image-carousel.php:103
+msgid "Image Grid Title"
+msgstr ""
+
+#: addons/widgets/image-carousel.php:127
+msgid "Display Caption"
+msgstr ""
+
+#: addons/widgets/image-carousel.php:138
+msgid "Hover Effect"
+msgstr ""
+
+#: addons/widgets/image-carousel.php:588
+msgid "Vertical Align"
+msgstr ""
+
+#: addons/widgets/image-carousel.php:593
+msgid "Start"
+msgstr ""
+
+#: addons/widgets/image-carousel.php:594
+msgid "End"
+msgstr ""
+
+#: addons/widgets/image-carousel.php:608
+msgid "Caption Style"
+msgstr ""
+
+#: addons/widgets/lightbox.php:42 addons/widgets/lightbox.php:90
+msgid "Play Box"
+msgstr ""
+
+#: addons/widgets/lightbox.php:98 addons/widgets/lightbox.php:102
+msgid "Icon Format"
+msgstr ""
+
+#: addons/widgets/lightbox.php:103
+msgid "Text Format"
+msgstr ""
+
+#: addons/widgets/lightbox.php:122
+msgid "Button Icon"
+msgstr ""
+
+#: addons/widgets/lightbox.php:133
+msgid "Button Link"
+msgstr ""
+
+#: addons/widgets/lightbox.php:148
+msgid "Enable Lightbox"
+msgstr ""
+
+#: addons/widgets/lightbox.php:341
+msgid "Button Style"
+msgstr ""
+
+#: addons/widgets/portfolio.php:43 post-type/portfolio.php:28
+#: post-type/portfolio.php:39
+msgid "Portfolio"
+msgstr ""
+
+#: addons/widgets/portfolio.php:96 metabox/metabox.php:10
+msgid "Portfolio Options"
+msgstr ""
+
+#: addons/widgets/portfolio.php:103
+msgid "Protfolio Style"
+msgstr ""
+
+#: addons/widgets/portfolio.php:107
+msgid "Style One"
+msgstr ""
+
+#: addons/widgets/portfolio.php:108
+msgid "Style Two"
+msgstr ""
+
+#: addons/widgets/portfolio.php:129 addons/widgets/portfolio.php:1037
+msgid "Filter Menu"
+msgstr ""
+
+#: addons/widgets/portfolio.php:224 addons/widgets/product.php:867
+msgid "Category"
+msgstr ""
+
+#: addons/widgets/portfolio.php:571
+msgid "Items Floating"
+msgstr ""
+
+#: addons/widgets/portfolio.php:759 addons/widgets/portfolio.php:841
+msgid "Overlay Background"
+msgstr ""
+
+#: addons/widgets/portfolio.php:829 addons/widgets/progress.php:178
+msgid "Bar Background"
+msgstr ""
+
+#: addons/widgets/portfolio.php:935
+msgid "Categores"
+msgstr ""
+
+#: addons/widgets/portfolio.php:1119 addons/widgets/tab-menu.php:277
+msgid "Menu Floating"
+msgstr ""
+
+#: addons/widgets/portfolio.php:1145
+msgid "Filter Menu Item Style"
+msgstr ""
+
+#: addons/widgets/portfolio.php:1161
+msgid "Display Item"
+msgstr ""
+
+#: addons/widgets/portfolio.php:1165 addons/widgets/portfolio.php:1255
+msgid "Block"
+msgstr ""
+
+#: addons/widgets/portfolio.php:1166 addons/widgets/portfolio.php:1256
+msgid "Inline Block"
+msgstr ""
+
+#: addons/widgets/portfolio.php:1250
+msgid "Display Active Bar"
+msgstr ""
+
+#: addons/widgets/portfolio.php:1267
+msgid "Active Color"
+msgstr ""
+
+#: addons/widgets/portfolio.php:1284
+msgid "Active Background"
+msgstr ""
+
+#: addons/widgets/portfolio.php:1929
+msgid "All Works"
+msgstr ""
+
+#: addons/widgets/price.php:15
+msgid "Pricing Table"
+msgstr ""
+
+#: addons/widgets/price.php:31
+msgid "Price Box"
+msgstr ""
+
+#: addons/widgets/price.php:41
+msgid "1 User"
+msgstr ""
+
+#: addons/widgets/price.php:52
+msgid "Regular Plan"
+msgstr ""
+
+#: addons/widgets/price.php:60 addons/widgets/product.php:942
+msgid "Price"
+msgstr ""
+
+#: addons/widgets/price.php:71
+msgid "No extra hidden charge. All vat Included."
+msgstr ""
+
+#: addons/widgets/price.php:80
+msgid "Purchase Now"
+msgstr ""
+
+#: addons/widgets/price.php:566
+msgid "Amount"
+msgstr ""
+
+#: addons/widgets/product.php:41
+msgid "WC Product"
+msgstr ""
+
+#: addons/widgets/product.php:79
+msgid "WC Products"
+msgstr ""
+
+#: addons/widgets/product.php:86
+msgid "Slider On?"
+msgstr ""
+
+#: addons/widgets/product.php:99
+msgid "Product Option"
+msgstr ""
+
+#: addons/widgets/product.php:106
+msgid "Product Categories"
+msgstr ""
+
+#: addons/widgets/product.php:174
+msgid "Show Category"
+msgstr ""
+
+#: addons/widgets/product.php:193
+msgid "Image Size"
+msgstr ""
+
+#: addons/widgets/product.php:198
+msgid "Medium"
+msgstr ""
+
+#: addons/widgets/product.php:199
+msgid "Large"
+msgstr ""
+
+#: addons/widgets/product.php:200
+msgid "Full"
+msgstr ""
+
+#: addons/widgets/product.php:234
+msgid "Show Price"
+msgstr ""
+
+#: addons/widgets/product.php:1001
+msgid "Sale"
+msgstr ""
+
+#: addons/widgets/progress.php:42 addons/widgets/progress.php:90
+#: addons/widgets/progress.php:160
+msgid "Progress Bar"
+msgstr ""
+
+#: addons/widgets/progress.php:102 addons/widgets/text-box.php:47
+#: addons/widgets/text-box.php:49
+msgid "Enter your title"
+msgstr ""
+
+#: addons/widgets/progress.php:103
+msgid "My Skill"
+msgstr ""
+
+#: addons/widgets/progress.php:111
+msgid "Type"
+msgstr ""
+
+#: addons/widgets/progress.php:115
+msgid "Default"
+msgstr ""
+
+#: addons/widgets/progress.php:116
+msgid "Info"
+msgstr ""
+
+#: addons/widgets/progress.php:117
+msgid "Success"
+msgstr ""
+
+#: addons/widgets/progress.php:118
+msgid "Warning"
+msgstr ""
+
+#: addons/widgets/progress.php:119
+msgid "Danger"
+msgstr ""
+
+#: addons/widgets/progress.php:127
+msgid "Percentage"
+msgstr ""
+
+#: addons/widgets/progress.php:138
+msgid "Display Percentage"
+msgstr ""
+
+#: addons/widgets/progress.php:169
+msgid "Bar Color"
+msgstr ""
+
+#: addons/widgets/progress.php:189
+msgid "Percentage Color"
+msgstr ""
+
+#: addons/widgets/progress.php:199
+msgid "Bar Height"
+msgstr ""
+
+#: addons/widgets/shortcode.php:42
+msgid "Form Shortcode"
+msgstr ""
+
+#: addons/widgets/shortcode.php:89
+msgid "Subscribe Form"
+msgstr ""
+
+#: addons/widgets/shortcode.php:96
+msgid "Shortcode"
+msgstr ""
+
+#: addons/widgets/shortcode.php:101
+msgid "Please enter MailChimp form Shortcode."
+msgstr ""
+
+#: addons/widgets/shortcode.php:113
+msgid "Lavel"
+msgstr ""
+
+#: addons/widgets/shortcode.php:189
+msgid "Lavel Custom CSS"
+msgstr ""
+
+#: addons/widgets/shortcode.php:204
+msgid "Input Field"
+msgstr ""
+
+#: addons/widgets/shortcode.php:373
+msgid "Focus"
+msgstr ""
+
+#: addons/widgets/shortcode.php:393
+msgid "focus Background"
+msgstr ""
+
+#: addons/widgets/shortcode.php:423
+msgid "Input Field CSS"
+msgstr ""
+
+#: addons/widgets/shortcode.php:502
+msgid "Button Floating"
+msgstr ""
+
+#: addons/widgets/social-menu.php:42 addons/widgets/social-menu.php:88
+msgid "Social Link"
+msgstr ""
+
+#: addons/widgets/social-menu.php:108
+msgid "Facebook"
+msgstr ""
+
+#: addons/widgets/tab-menu.php:14
+msgid "Tab Menu"
+msgstr ""
+
+#: addons/widgets/tab-menu.php:38
+msgid "Tab Items"
+msgstr ""
+
+#: addons/widgets/tab-menu.php:112
+msgid "Targeted ID"
+msgstr ""
+
+#: addons/widgets/tab-menu.php:116
+msgid "tab_item_1"
+msgstr ""
+
+#: addons/widgets/tab-menu.php:123
+msgid "Active Item?"
+msgstr ""
+
+#: addons/widgets/tab-menu.php:462
+msgid "Background Color"
+msgstr ""
+
+#: addons/widgets/team.php:43
+msgid "Team"
+msgstr ""
+
+#: addons/widgets/team.php:96
+msgid "Team Membar"
+msgstr ""
+
+#: addons/widgets/team.php:150 widgets/social-menu.php:65
+msgid "Facebook URL"
+msgstr ""
+
+#: addons/widgets/team.php:152
+msgid "https://facebook.com"
+msgstr ""
+
+#: addons/widgets/team.php:158 widgets/social-menu.php:69
+msgid "Twitter URL"
+msgstr ""
+
+#: addons/widgets/team.php:160
+msgid "https://twitter.com"
+msgstr ""
+
+#: addons/widgets/team.php:166 widgets/social-menu.php:85
+msgid "Behance URL"
+msgstr ""
+
+#: addons/widgets/team.php:168
+msgid "https://behance.com"
+msgstr ""
+
+#: addons/widgets/team.php:174 widgets/social-menu.php:73
+msgid "Linkedin URL"
+msgstr ""
+
+#: addons/widgets/team.php:176
+msgid "https://linkedin.com"
+msgstr ""
+
+#: addons/widgets/team.php:188 addons/widgets/team.php:196
+#: addons/widgets/team.php:204 addons/widgets/team.php:212
+msgid "Founder"
+msgstr ""
+
+#: addons/widgets/team.php:189 addons/widgets/team.php:197
+#: addons/widgets/team.php:205 addons/widgets/team.php:213
+msgid "Rosalind D. William"
+msgstr ""
+
+#: addons/widgets/team.php:190 addons/widgets/team.php:191
+#: addons/widgets/team.php:192 addons/widgets/team.php:193
+#: addons/widgets/team.php:198 addons/widgets/team.php:199
+#: addons/widgets/team.php:200 addons/widgets/team.php:201
+#: addons/widgets/team.php:206 addons/widgets/team.php:207
+#: addons/widgets/team.php:208 addons/widgets/team.php:209
+#: addons/widgets/team.php:214 addons/widgets/team.php:215
+#: addons/widgets/team.php:216 addons/widgets/team.php:217
+msgid "#"
+msgstr ""
+
+#: addons/widgets/team.php:766
+msgid "Image Style"
+msgstr ""
+
+#: addons/widgets/team.php:927
+msgid "Name Style"
+msgstr ""
+
+#: addons/widgets/team.php:1003
+msgid "Position Style"
+msgstr ""
+
+#: addons/widgets/team.php:1075
+msgid "Social Menu"
+msgstr ""
+
+#: addons/widgets/testimonial.php:13 addons/widgets/testimonial.php:41
+msgid "Testimonial"
+msgstr ""
+
+#: addons/widgets/testimonial.php:49
+msgid "Rating Star"
+msgstr ""
+
+#: addons/widgets/testimonial.php:60
+msgid "Rating Subject"
+msgstr ""
+
+#: addons/widgets/testimonial.php:62 addons/widgets/testimonial.php:131
+msgid "Design Quolity"
+msgstr ""
+
+#: addons/widgets/testimonial.php:68
+msgid "Client Say"
+msgstr ""
+
+#: addons/widgets/testimonial.php:70 addons/widgets/testimonial.php:135
+#: addons/widgets/testimonial.php:143 addons/widgets/testimonial.php:151
+msgid ""
+"Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod "
+"tempor incididunt ut labore et dolore Lorem ipsum dolor sit amet, "
+"consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et "
+"dolore magna aliqua."
+msgstr ""
+
+#: addons/widgets/testimonial.php:79 addons/widgets/testimonial.php:132
+msgid "Carolina Monntoya"
+msgstr ""
+
+#: addons/widgets/testimonial.php:87 addons/widgets/testimonial.php:1211
+msgid "Designation"
+msgstr ""
+
+#: addons/widgets/testimonial.php:89
+msgid "Managing Director"
+msgstr ""
+
+#: addons/widgets/testimonial.php:95
+msgid "Designation Color"
+msgstr ""
+
+#: addons/widgets/testimonial.php:133
+msgid "founder, uithemes"
+msgstr ""
+
+#: addons/widgets/testimonial.php:140
+msgid "Peter Rose"
+msgstr ""
+
+#: addons/widgets/testimonial.php:141
+msgid "Manager"
+msgstr ""
+
+#: addons/widgets/testimonial.php:148
+msgid "Gerald Gilbert"
+msgstr ""
+
+#: addons/widgets/testimonial.php:149
+msgid "Developer"
+msgstr ""
+
+#: addons/widgets/testimonial.php:172
+msgid "Show Quote?"
+msgstr ""
+
+#: addons/widgets/testimonial.php:182
+msgid "Quote Type"
+msgstr ""
+
+#: addons/widgets/testimonial.php:241
+msgid "Show Rating Star?"
+msgstr ""
+
+#: addons/widgets/testimonial.php:360
+msgid "Fade Effect"
+msgstr ""
+
+#: addons/widgets/testimonial.php:870
+msgid "Quote"
+msgstr ""
+
+#: addons/widgets/testimonial.php:912 addons/widgets/tooltip.php:564
+msgid "Icon Size"
+msgstr ""
+
+#: addons/widgets/testimonial.php:1045
+msgid "Client say"
+msgstr ""
+
+#: addons/widgets/testimonial.php:1111
+msgid "Subject"
+msgstr ""
+
+#: addons/widgets/testimonial.php:1278
+msgid "Image Float"
+msgstr ""
+
+#: addons/widgets/text-box.php:14 addons/widgets/text-box.php:30
+msgid "Text Box"
+msgstr ""
+
+#: addons/widgets/text-box.php:38 addons/widgets/text-box.php:39
+msgid "Enter your top title"
+msgstr ""
+
+#: addons/widgets/text-box.php:58
+msgid ""
+"The world calls for, and expects from us, simplicity of life, the spirit of "
+"prayer, charity towards all, especially towards the lowly and the poor."
+msgstr ""
+
+#: addons/widgets/text-box.php:59
+msgid "Type your description here"
+msgstr ""
+
+#: addons/widgets/text-box.php:99
+msgid "Top Title Style"
+msgstr ""
+
+#: addons/widgets/text-box.php:208
+msgid "Main Title Style"
+msgstr ""
+
+#: addons/widgets/text-box.php:279
+msgid "Desc Style"
+msgstr ""
+
+#: addons/widgets/tooltip.php:13 addons/widgets/tooltip.php:35
+#: addons/widgets/tooltip.php:72 addons/widgets/tooltip.php:868
+msgid "Tooltip"
+msgstr ""
+
+#: addons/widgets/tooltip.php:41
+msgid "Button Type"
+msgstr ""
+
+#: addons/widgets/tooltip.php:58 addons/widgets/tooltip.php:772
+msgid "Wave"
+msgstr ""
+
+#: addons/widgets/tooltip.php:121
+msgid "Show Link"
+msgstr ""
+
+#: addons/widgets/tooltip.php:153
+msgid "Tooltip Options"
+msgstr ""
+
+#: addons/widgets/tooltip.php:159
+msgid "Tooltip Text"
+msgstr ""
+
+#: addons/widgets/tooltip.php:162
+msgid "Tooltip content"
+msgstr ""
+
+#: addons/widgets/tooltip.php:170
+msgid "Direction"
+msgstr ""
+
+#: addons/widgets/tooltip.php:186
+msgid "Space With Button"
+msgstr ""
+
+#: addons/widgets/tooltip.php:215
+msgid "Style"
+msgstr ""
+
+#: addons/widgets/tooltip.php:370
+msgid "Rotation Along"
+msgstr ""
+
+#: addons/widgets/tooltip.php:374
+msgid "X - axis"
+msgstr ""
+
+#: addons/widgets/tooltip.php:375
+msgid "Y - axis"
+msgstr ""
+
+#: addons/widgets/tooltip.php:376
+msgid "Z - axis"
+msgstr ""
+
+#: addons/widgets/tooltip.php:384
+msgid "Rotation X - axis"
+msgstr ""
+
+#: addons/widgets/tooltip.php:412
+msgid "Rotation Y - axis"
+msgstr ""
+
+#: addons/widgets/tooltip.php:440
+msgid "Rotation Z - axis"
+msgstr ""
+
+#: addons/widgets/tooltip.php:989
+msgid "Arrow Color"
+msgstr ""
+
+#: include/jupiter-core-functinos.php:5
+msgid "You are currently here!"
+msgstr ""
+
+#: include/jupiter-core-functinos.php:122
+msgid "Author archive for "
+msgstr ""
+
+#: include/jupiter-core-functinos.php:160
+msgid "Search query for: "
+msgstr ""
+
+#: include/jupiter-core-functinos.php:164
+msgid "Error 404"
+msgstr ""
+
+#: include/jupiter-core-functinos.php:169
+#, php-format
+msgid " ( Page %s )"
+msgstr ""
+
+#: metabox/metabox.php:16
+msgid "Project Type"
+msgstr ""
+
+#: metabox/metabox.php:19
+msgid "What is the project type. Example: ( Design, Development ) Etc."
+msgstr ""
+
+#: metabox/metabox.php:27
+msgid "When did you start the project?"
+msgstr ""
+
+#: metabox/metabox.php:31
+msgid "Client Name"
+msgstr ""
+
+#: metabox/metabox.php:34
+msgid "What is your client name. Please type here."
+msgstr ""
+
+#: metabox/metabox.php:38
+msgid "Tools Name"
+msgstr ""
+
+#: metabox/metabox.php:41
+msgid "What tools have you used?"
+msgstr ""
+
+#: metabox/metabox.php:44
+msgid "Project URL"
+msgstr ""
+
+#: metabox/metabox.php:47
+msgid "Do you have any live demo link? Please type here."
+msgstr ""
+
+#: metabox/metabox.php:53
+msgid "Page Options"
+msgstr ""
+
+#: metabox/metabox.php:59
+msgid "Onepage Template:"
+msgstr ""
+
+#: metabox/metabox.php:62
+msgid "Will this page use as a onepage template?"
+msgstr ""
+
+#: metabox/metabox.php:66
+msgid "Onepage Scroll"
+msgstr ""
+
+#: metabox/metabox.php:69
+msgid "To get a id selected scroll?"
+msgstr ""
+
+#: metabox/metabox.php:73
+msgid "Remove Page Header:"
+msgstr ""
+
+#: metabox/metabox.php:76
+msgid "Check this field if you want remove page header on this page."
+msgstr ""
+
+#: metabox/metabox.php:80
+msgid "Transparent Menu:"
+msgstr ""
+
+#: metabox/metabox.php:83
+msgid "Check this field if you want transparent menu on this page."
+msgstr ""
+
+#: metabox/metabox.php:86
+msgid "Remove Footer Area:"
+msgstr ""
+
+#: metabox/metabox.php:89
+msgid "Check this field if you want remove footer widgets on this page."
+msgstr ""
+
+#: metabox/metabox.php:93
+msgid "Menu Text Color"
+msgstr ""
+
+#: metabox/metabox.php:102
+msgid "Menu Hover Text Color"
+msgstr ""
+
+#: metabox/metabox.php:111
+msgid "Menu Bar Color"
+msgstr ""
+
+#: metabox/metabox.php:119
+msgid "Menu Plus Color"
+msgstr ""
+
+#: metabox/metabox.php:129
+msgid "Sticy Menu Text Color"
+msgstr ""
+
+#: metabox/metabox.php:138
+msgid "Sticky Menu Hover Text Color"
+msgstr ""
+
+#: metabox/metabox.php:147
+msgid "Sticky Menu Bar Color"
+msgstr ""
+
+#: metabox/metabox.php:155
+msgid "Sticky Menu Plus Color"
+msgstr ""
+
+#: metabox/metabox.php:168
+msgid "Additional Fields"
+msgstr ""
+
+#: metabox/metabox.php:173
+msgid "Photo Gallery"
+msgstr ""
+
+#: metabox/metabox.php:174
+msgid ""
+"This field for gallery images. This gallery show for select gallery format."
+msgstr ""
+
+#: metabox/metabox.php:178
+msgid "Add images"
+msgstr ""
+
+#: metabox/metabox.php:184
+msgid "Embed Video"
+msgstr ""
+
+#: metabox/metabox.php:185
+msgid ""
+"Enter a youtube, twitter, or instagram URL. Supports services listed at "
+msgstr ""
+
+#: metabox/metabox.php:185
+msgid "This video show for select video format"
+msgstr ""
+
+#: metabox/metabox.php:191
+msgid "Embed Audio"
+msgstr ""
+
+#: metabox/metabox.php:192
+msgid ""
+"Enter a SoundCloud, Mixcloud, or ReverbNation etc URL. Supports services "
+"listed at "
+msgstr ""
+
+#: metabox/metabox.php:192
+msgid "This audio show for select audio format"
+msgstr ""
+
+#: post-type/portfolio.php:29
+msgid "Item"
+msgstr ""
+
+#: post-type/portfolio.php:30 post-type/portfolio.php:31
+msgid "Add New Item"
+msgstr ""
+
+#: post-type/portfolio.php:32
+msgid "Edit Item"
+msgstr ""
+
+#: post-type/portfolio.php:33
+msgid "New Item"
+msgstr ""
+
+#: post-type/portfolio.php:34
+msgid "View Item"
+msgstr ""
+
+#: post-type/portfolio.php:35
+msgid "Search Through portfolio"
+msgstr ""
+
+#: post-type/portfolio.php:36
+msgid "No items found"
+msgstr ""
+
+#: post-type/portfolio.php:37
+msgid "No items found in Trash"
+msgstr ""
+
+#: post-type/portfolio.php:38
+msgid "Parent Item:"
+msgstr ""
+
+#: post-type/portfolio.php:42
+msgid "Add a Portfolio Item"
+msgstr ""
+
+#: post-type/portfolio.php:75
+msgid "Search Categories"
+msgstr ""
+
+#: post-type/portfolio.php:77
+msgid "Parent Category"
+msgstr ""
+
+#: post-type/portfolio.php:78
+msgid "Parent Category:"
+msgstr ""
+
+#: post-type/portfolio.php:79
+msgid "Edit Category"
+msgstr ""
+
+#: post-type/portfolio.php:80
+msgid "Update Category"
+msgstr ""
+
+#: post-type/portfolio.php:81
+msgid "Add New Category"
+msgstr ""
+
+#: post-type/portfolio.php:82
+msgid "New Category"
+msgstr ""
+
+#: widgets/instagram.php:14
+msgid "Instagram Feed"
+msgstr ""
+
+#: widgets/instagram.php:15
+msgid "Show Instagram feed to adding this widget."
+msgstr ""
+
+#: widgets/instagram.php:77
+msgid "Instagram"
+msgstr ""
+
+#: widgets/instagram.php:100 widgets/popular-post.php:72
+#: widgets/social-menu.php:61
+msgid "Title:"
+msgstr ""
+
+#: widgets/instagram.php:109
+#, php-format
+msgid "Instagram <a target=\"_blank\" href=\"%s\">User ID</a>:"
+msgstr ""
+
+#: widgets/instagram.php:118
+#, php-format
+msgid "Instagram <a target=\"_blank\" href=\"%s\">Access Token</a>:"
+msgstr ""
+
+#: widgets/instagram.php:128
+msgid "Total Photo Show:"
+msgstr ""
+
+#: widgets/popular-post.php:8
+msgid "jupiter Popular Posts"
+msgstr ""
+
+#: widgets/popular-post.php:10
+msgid "jupiter Popular posts widget."
+msgstr ""
+
+#: widgets/popular-post.php:78
+msgid "Post Title Length:"
+msgstr ""
+
+#: widgets/popular-post.php:83
+msgid "Number of posts to show:"
+msgstr ""
+
+#: widgets/popular-post.php:89
+msgid "Display Post Meta?"
+msgstr ""
+
+#: widgets/popular-post.php:95
+msgid "Display Post Thumbnail?"
+msgstr ""
+
+#: widgets/social-menu.php:9
+msgid "Social Profile"
+msgstr ""
+
+#: widgets/social-menu.php:11
+msgid "To set your social profile link."
+msgstr ""
+
+#: widgets/social-menu.php:77
+msgid "Google URL"
+msgstr ""
+
+#: widgets/social-menu.php:81
+msgid "Youtube URL"
+msgstr ""
+
+#: widgets/social-menu.php:89
+msgid "Dribbble URL"
+msgstr ""
